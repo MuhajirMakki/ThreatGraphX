@@ -1,0 +1,2337 @@
+source,relation,target
+T1557,mitigated_by,Filter Network Traffic
+CAPEC-497,maps_to,T1010
+CVE-2026-56210,affects,Red Hat:Red Hat Enterprise Linux AI (RHEL AI) 3
+CAPEC-192,maps_to,T1071.001
+CAPEC-551,maps_to,T1031
+CVE-2025-32436,affects,Significant-Gravitas:AutoGPT
+CAPEC-639,maps_to,T1003.007
+CAPEC-541,maps_to,T1527
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-LN25VG3W-ET1
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-XD4025S-W
+CWE-295,mapped_to,CAPEC-475
+CAPEC-478,maps_to,T1505.005
+CVE-2026-3196,affects,Red Hat:Red Hat Enterprise Linux 9
+CWE-521,mapped_to,CAPEC-555
+CWE-425,mapped_to,CAPEC-144
+CVE-2026-56077,affects,PraisonAI:PraisonAI
+CVE-2026-50203,affects,Apache Software Foundation:Apache Airflow SFTP provider
+CAPEC-30,maps_to,T1546
+CVE-2026-48117,has_weakness,CWE-287
+CVE-2026-56209,has_weakness,CWE-787
+CWE-425,mapped_to,CAPEC-127
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-LZ20VUFB-E1
+CWE-59,mapped_to,CAPEC-17
+CAPEC-326,maps_to,T1222.001
+CWE-1220,mapped_to,CAPEC-180
+CVE-2026-12318,affects,Mozilla:Firefox
+CVE-2026-36418,has_weakness,CWE-94
+CVE-2026-12459,affects,Google:Chrome
+CAPEC-278,maps_to,T1583.006
+CAPEC-583,maps_to,T1584.008
+CVE-2026-12098,affects,blubrry:PowerPress Podcasting plugin by Blubrry
+CVE-2026-46909,has_weakness,CWE-284
+T1647,mitigated_by,Application Developer Guidance
+CVE-2026-12199,affects,nltk:nltk/nltk
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-JXV2223-T
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-HXV5622S-W-1
+CVE-2026-48516,affects,MessagePack-CSharp:MessagePack-CSharp
+T1561.002,mitigated_by,Data Backup
+CAPEC-596,maps_to,T1674
+CVE-2026-48989,has_weakness,CWE-306
+CAPEC-215,maps_to,T1546.011
+CAPEC-164,maps_to,T1598.003
+CAPEC-551,maps_to,T1685.002
+CAPEC-58,maps_to,T1068
+CVE-2026-44691,has_weakness,CWE-829
+CWE-494,mapped_to,CAPEC-538
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-VXV4024S-W
+CAPEC-691,maps_to,T1063
+CAPEC-211,maps_to,T1671
+CAPEC-117,maps_to,T1574.007
+CAPEC-578,maps_to,T1592.002
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-ZXV6323S-W
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-EM2522E1-W-1
+CAPEC-54,maps_to,T1082
+CVE-2026-48982,has_weakness,CWE-362
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-NXV3625S-W
+CAPEC-552,maps_to,T1546.016
+CAPEC-692,maps_to,T1543
+CAPEC-587,maps_to,T1059
+CAPEC-539,maps_to,T1156
+CAPEC-278,maps_to,T1071.001
+CAPEC-202,maps_to,T1578.002
+CAPEC-560,maps_to,T1090.004
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-ZW6321S-T-1
+T1557.001,mitigated_by,Filter Network Traffic
+CAPEC-106,maps_to,T1564.001
+CVE-2026-22340,affects,Jobster Marketplace:WPJobster
+CAPEC-109,maps_to,T1659
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-HXV4026S-W
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-LN50VG2B-ET5
+T1098.004,mitigated_by,Restrict File and Directory Permissions
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-ZW4024S-W
+CWE-89,mapped_to,CAPEC-109
+CVE-2026-54665,has_weakness,CWE-346
+CAPEC-184,maps_to,T1518.002
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-FT25VGK2-SC2
+T1558,mitigated_by,Audit
+CVE-2026-10637,affects,zephyrproject:zephyr
+CVE-2025-32436,has_weakness,CWE-400
+CAPEC-215,maps_to,T1527
+CAPEC-277,maps_to,T1001.003
+CVE-2026-8443,has_weakness,CWE-89
+CAPEC-48,maps_to,T1078.003
+T1213,mitigated_by,Audit
+CAPEC-681,maps_to,T1219.003
+CVE-2026-12814,affects,Comfast:CF-WR631AX V3
+CVE-2026-49248,affects,theonedev:onedev
+CAPEC-593,maps_to,T1496
+CAPEC-30,maps_to,T1553.003
+CAPEC-226,maps_to,T1098
+CWE-279,mapped_to,CAPEC-81
+CAPEC-681,maps_to,T1203
+CAPEC-10,maps_to,T1574.007
+CAPEC-200,maps_to,T1674
+T1189,mitigated_by,Application Isolation and Sandboxing
+CVE-2026-12205,affects,TIMLEGGE:Crypt::DSA
+CVE-2026-30799,has_weakness,CWE-306
+CAPEC-6,maps_to,T1546.012
+CAPEC-174,maps_to,T1546.012
+T1548,mitigated_by,Operating System Configuration
+CVE-2026-9071,has_weakness,CWE-400
+CVE-2026-46787,has_weakness,CWE-352
+CAPEC-276,maps_to,T1071.005
+CAPEC-253,maps_to,T1219
+CAPEC-220,maps_to,T1071.002
+CVE-2026-55196,affects,hermes-webui:hermes-webui
+CAPEC-466,maps_to,T1144
+CVE-2026-12773,has_weakness,CWE-287
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-LN35VG3B-E1
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-EF42VGKB-ER2
+CAPEC-96,maps_to,T1556.009
+CVE-2026-8811,has_weakness,CWE-22
+CAPEC-409,maps_to,T1591
+CAPEC-388,maps_to,T1496.004
+CVE-2026-48788,affects,umputun:remark42
+T1036.005,mitigated_by,Restrict File and Directory Permissions
+CVE-2026-2604,affects,Red Hat:Red Hat Enterprise Linux 10
+CVE-2026-48055,has_weakness,CWE-22
+CAPEC-2,maps_to,T1531
+T1550.003,mitigated_by,Password Policies
+CVE-2026-42127,affects,Grafana:Grafana OSS
+T1102.001,mitigated_by,Restrict Web-Based Content
+T1543.002,mitigated_by,User Account Management
+T1070.007,mitigated_by,Restrict Registry Permissions
+CAPEC-184,maps_to,T1195.001
+CVE-2026-54106,has_weakness,CWE-940
+CAPEC-580,maps_to,T1543
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-EM56E3S-W
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-LN50VG3B-E1
+CVE-2026-48502,has_weakness,CWE-470
+CWE-118,mapped_to,CAPEC-46
+CVE-2024-32949,affects,Prince:Integrate Google Drive
+CVE-2026-9733,affects,HAYAJO:Mojolicious::Plugin::Web::Auth::OAuth2
+CAPEC-547,maps_to,T1686.002
+CWE-451,mapped_to,CAPEC-154
+CVE-2026-56307,affects,Cap-go:capgo
+CVE-2026-12314,has_weakness,CWE-119
+CVE-2026-12797,has_weakness,CWE-285
+CWE-1248,mapped_to,CAPEC-625
+CAPEC-575,maps_to,T1586
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-LN50VG2V-E1
+CAPEC-632,maps_to,T1562.010
+CAPEC-61,maps_to,T1550.004
+CAPEC-50,maps_to,T1555.005
+CAPEC-593,maps_to,T1550.004
+CVE-2026-12137,has_weakness,CWE-79
+CVE-2026-8089,has_weakness,CWE-79
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-ZW7122S-T
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-RK2526-W
+CAPEC-445,maps_to,T1176
+CAPEC-387,maps_to,T1080
+CAPEC-449,maps_to,T1588.001
+CAPEC-301,maps_to,T1070.007
+CAPEC-478,maps_to,T1559.003
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-LN18VG3W-SC1
+CVE-2026-49133,affects,typemill:typemill
+CAPEC-692,maps_to,T1548
+CVE-2026-40752,affects,Select-Themes:Manufaktur Solutions
+CVE-2026-49764,affects,Metagauss:RegistrationMagic
+CWE-294,mapped_to,CAPEC-102
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-AY35VGKP-ET1
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Refrigerators (for Japan) MR-MZ60J
+CAPEC-180,maps_to,T1555.002
+CAPEC-187,maps_to,T1176
+CVE-2026-39443,affects,PressLayouts:EmallShop
+CAPEC-412,maps_to,T1574.011
+CAPEC-524,maps_to,T1505.001
+CAPEC-694,maps_to,T1216
+CAPEC-215,maps_to,T1528
+CAPEC-111,maps_to,T1198
+CWE-22,mapped_to,CAPEC-79
+CAPEC-562,maps_to,T1562.004
+CAPEC-174,maps_to,T1181
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-EF22VGKS-ET1
+CWE-330,mapped_to,CAPEC-59
+T1027,mitigated_by,Audit
+CAPEC-254,maps_to,T1055.001
+CAPEC-663,maps_to,T1678
+CWE-179,mapped_to,CAPEC-3
+CAPEC-388,maps_to,T1528
+CAPEC-174,maps_to,T1183
+CAPEC-578,maps_to,T1562.013
+CWE-300,mapped_to,CAPEC-590
+CVE-2026-9278,affects,Unknown:Form Builder CP
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-EX3625E5-W
+CVE-2026-9199,affects,"equalizedigital:Equalize Digital Accessibility Checker – WCAG, ADA, EAA and Section 508 compliance"
+CVE-2026-46769,has_weakness,CWE-284
+CWE-287,mapped_to,CAPEC-151
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-LN18VG2W-E1
+CVE-2026-42662,has_weakness,CWE-290
+CWE-494,mapped_to,CAPEC-186
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-JXV4026S-W
+CAPEC-51,maps_to,T1543.005
+CAPEC-187,maps_to,T1204.002
+CVE-2026-12308,has_weakness,CWE-119
+CVE-2026-52716,has_weakness,CWE-22
+CAPEC-583,maps_to,T1562.013
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-LN60VG2V-E2
+CVE-2026-39471,has_weakness,CWE-502
+CVE-2026-8484,has_weakness,CWE-122
+CAPEC-279,maps_to,T1492
+CVE-2026-10634,affects,zephyrproject:zephyr
+CAPEC-452,maps_to,T1219.003
+CVE-2026-12804,affects,n/a:lemonldap-ng
+T1090,mitigated_by,Network Intrusion Prevention
+CAPEC-552,maps_to,T1130
+T1686,mitigated_by,User Account Management
+CAPEC-21,maps_to,T1687
+CVE-2026-46919,has_weakness,CWE-306
+T1566.002,mitigated_by,Audit
+T1222.002,mitigated_by,Restrict File and Directory Permissions
+CAPEC-57,maps_to,T1216
+CAPEC-192,maps_to,T1032
+CVE-2026-47242,affects,ruby:net-imap
+CVE-2026-12046,affects,pgadmin.org:pgAdmin 4
+CWE-120,mapped_to,CAPEC-92
+CVE-2026-10645,affects,zephyrproject-rtos:Zephyr
+CVE-2024-38487,affects,Dell:EMC VxRail Appliance
+CAPEC-519,maps_to,T1562.004
+CAPEC-55,maps_to,T1556.002
+CAPEC-625,maps_to,T1055
+CVE-2026-12093,has_weakness,CWE-862
+CAPEC-234,maps_to,T1496
+CVE-2026-0165,has_weakness,CWE-120
+T1583.007,mitigated_by,Pre-compromise
+CWE-434,mapped_to,CAPEC-1
+CVE-2026-7859,has_weakness,CWE-862
+CAPEC-211,maps_to,T1138
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-HR60VFK2-ET1
+CAPEC-694,maps_to,T1614.001
+CAPEC-57,maps_to,T1590.003
+CAPEC-270,maps_to,T1553.006
+CAPEC-596,maps_to,T1055.001
+CAPEC-474,maps_to,T1557.003
+CVE-2026-53851,has_weakness,CWE-862
+CAPEC-655,maps_to,T1167
+CAPEC-264,maps_to,T1134
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-ZW3625-W
+CAPEC-470,maps_to,T1490
+CVE-2026-40779,has_weakness,CWE-22
+CAPEC-680,maps_to,T1499.004
+CAPEC-84,maps_to,T1674
+CAPEC-439,maps_to,T1493
+CVE-2026-47846,has_weakness,CWE-798
+CVE-2026-49340,has_weakness,CWE-22
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-RW25VG2-E1
+CAPEC-84,maps_to,T1134.005
+CWE-472,mapped_to,CAPEC-226
+CAPEC-562,maps_to,T1578
+CVE-2024-31435,has_weakness,CWE-862
+T1021.004,mitigated_by,Disable or Remove Feature or Program
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-VXV6326S-W
+CWE-349,mapped_to,CAPEC-75
+CVE-2025-15659,has_weakness,CWE-79
+CAPEC-519,maps_to,T1685.006
+T1110.001,mitigated_by,Update Software
+CAPEC-124,maps_to,T1134
+CAPEC-249,maps_to,T1055.002
+CAPEC-442,maps_to,T1195.002
+CAPEC-65,maps_to,T1528
+CVE-2020-37251,has_weakness,CWE-428
+CWE-205,mapped_to,CAPEC-580
+T1072,mitigated_by,Network Segmentation
+CAPEC-657,maps_to,T1592.002
+CVE-2026-5242,has_weakness,CWE-1236
+CAPEC-134,maps_to,T1114
+CWE-183,mapped_to,CAPEC-71
+CAPEC-326,maps_to,T1047
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-LN60VG2W-E1
+CAPEC-218,maps_to,T1684.002
+CAPEC-123,maps_to,T1548.006
+CVE-2026-53550,affects,nodeca:js-yaml
+CAPEC-23,maps_to,T1183
+CVE-2026-27041,has_weakness,CWE-434
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-HXV6322S-W-1
+T1210,mitigated_by,Exploit Protection
+CWE-565,mapped_to,CAPEC-226
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Wireless LAN Adapters for Room Air Conditioners (for Japan) HM-WF001MD
+T1601.001,mitigated_by,Boot Integrity
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-FT50VGK2-SC2
+CAPEC-277,maps_to,T1492
+CAPEC-252,maps_to,T1680
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-AY15VGKP-ET1
+CVE-2026-39582,affects,xtemos:Hitek
+CAPEC-151,maps_to,T1564.010
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Refrigerators (for Japan) MR-WXD60G
+CAPEC-676,maps_to,T1055.011
+T1218.008,mitigated_by,Disable or Remove Feature or Program
+T1552,mitigated_by,Audit
+CAPEC-88,maps_to,T1178
+T1021.002,mitigated_by,Password Policies
+CVE-2026-46977,has_weakness,CWE-200
+CAPEC-292,maps_to,T1518.002
+CAPEC-652,maps_to,T1552
+CAPEC-470,maps_to,T1196
+CVE-2026-49767,has_weakness,CWE-288
+CVE-2026-54195,has_weakness,CWE-79
+CVE-2026-56104,affects,Chainlit:chainlit
+CAPEC-90,maps_to,T1187
+CVE-2026-8444,has_weakness,CWE-89
+T1566.003,mitigated_by,Restrict Web-Based Content
+CAPEC-650,maps_to,T1505.003
+CAPEC-529,maps_to,T1525
+CAPEC-463,maps_to,T1573.001
+CVE-2026-12221,has_weakness,CWE-119
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-LN60VG2B-E2
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-FT35VGK-E1
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-LN35VG2V-EN2
+CVE-2026-48794,has_weakness,CWE-863
+CAPEC-446,maps_to,T1204.005
+CAPEC-269,maps_to,T1574.011
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-LN25VGB-ER1
+CWE-1239,mapped_to,CAPEC-545
+CVE-2026-48876,has_weakness,CWE-79
+CVE-2026-12310,has_weakness,CWE-119
+CAPEC-41,maps_to,T1178
+CVE-2026-12438,has_weakness,CWE-693
+CAPEC-388,maps_to,T1055.014
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-LN25VG2W-ET3
+CAPEC-108,maps_to,T1546
+CAPEC-581,maps_to,T1213.004
+CAPEC-180,maps_to,T1668
+CVE-2026-35281,has_weakness,CWE-284
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-EF50VGKS-ER2
+CVE-2026-47846,affects,Bitnami:bitnami/cassandra
+CVE-2026-49068,affects,RelyWP:Coupon Affiliates
+CWE-15,mapped_to,CAPEC-271
+CWE-80,mapped_to,CAPEC-86
+CAPEC-465,maps_to,T1548
+CVE-2026-7859,affects,Unknown:Motors
+CVE-2026-12808,has_weakness,CWE-74
+CWE-180,mapped_to,CAPEC-80
+CVE-2026-49345,affects,sourcentis:mercator
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-BKR4023S-W
+CVE-2026-35271,has_weakness,CWE-284
+CWE-290,mapped_to,CAPEC-21
+CVE-2026-56395,affects,SiYuan:SiYuan
+CAPEC-678,maps_to,T1601.002
+CVE-2026-9843,affects,"crmperks:Database for Contact Form 7, WPforms, Elementor forms"
+CVE-2026-53847,has_weakness,CWE-266
+CAPEC-135,maps_to,T1598
+CVE-2026-12290,affects,Mozilla:Thunderbird
+CAPEC-165,maps_to,T1565.003
+T1612,mitigated_by,Network Segmentation
+CVE-2026-41048,has_weakness,CWE-303
+CVE-2026-39492,affects,Flipper Code – WordPress Development Company:WP Maps
+CVE-2026-52703,has_weakness,CWE-35
+CAPEC-136,maps_to,T1055.001
+CVE-2026-34900,has_weakness,CWE-79
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-RW50VG-E1
+CAPEC-442,maps_to,T1592.002
+CWE-20,mapped_to,CAPEC-13
+CVE-2026-49109,affects,"crm perks:Integration for Salesforce and Contact Form 7, WPForms, Elementor, Formidable, Ninja Forms"
+CAPEC-159,maps_to,T1015
+CVE-2026-55744,affects,Cotonti:Cotonti
+CVE-2026-49774,has_weakness,CWE-94
+CAPEC-656,maps_to,T1194
+CAPEC-490,maps_to,T1498.002
+CAPEC-459,maps_to,T1553.004
+CAPEC-249,maps_to,T1674
+CAPEC-561,maps_to,T1606
+CAPEC-616,maps_to,T1207
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-ZW4022S-T-2
+T1137.004,mitigated_by,Update Software
+CWE-822,mapped_to,CAPEC-129
+CVE-2026-39481,has_weakness,CWE-502
+CVE-2026-8858,affects,IBM:i
+CAPEC-16,maps_to,T1110.003
+CAPEC-479,maps_to,T1156
+CVE-2026-53779,has_weakness,CWE-22
+T1021.006,mitigated_by,Privileged Account Management
+CAPEC-182,maps_to,T1546.012
+CAPEC-259,maps_to,T1137
+T1210,mitigated_by,Threat Intelligence Program
+CAPEC-654,maps_to,T1081
+CVE-2026-46871,affects,Oracle Corporation:MySQL Shell
+CVE-2026-54810,affects,Nexi Payments:Nexi XPay
+CAPEC-638,maps_to,T1546.015
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-EM6324E4S-W
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-ZXV5621S-W-1
+CAPEC-624,maps_to,T1674
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-ZY2524-W
+CAPEC-106,maps_to,T1092
+CAPEC-412,maps_to,T1499.002
+CWE-74,mapped_to,CAPEC-24
+CWE-309,mapped_to,CAPEC-560
+CWE-116,mapped_to,CAPEC-104
+T1564.006,mitigated_by,Execution Prevention
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-LZ50VUMW-SC1
+CVE-2019-25752,has_weakness,CWE-89
+CAPEC-695,maps_to,T1149
+CVE-2026-10530,affects,Unknown:Pie Register
+T1530,mitigated_by,User Account Management
+CAPEC-389,maps_to,T1010
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-ZXV4022S-W
+T1176,mitigated_by,Limit Software Installation
+CAPEC-110,maps_to,T1221
+CAPEC-400,maps_to,T1485
+CAPEC-218,maps_to,T1134.004
+CAPEC-639,maps_to,T1685.004
+CAPEC-54,maps_to,T1562.012
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-LN25VG2V-E1
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-EF50VGKDS-A2
+CAPEC-73,maps_to,T1151
+CVE-2026-35311,affects,Oracle Corporation:WebLogic Server
+CAPEC-163,maps_to,T1192
+CWE-200,mapped_to,CAPEC-307
+T1021.005,mitigated_by,Disable or Remove Feature or Program
+CAPEC-533,maps_to,T1204.005
+CAPEC-678,maps_to,T1501
+CVE-2026-35326,has_weakness,CWE-284
+CWE-300,mapped_to,CAPEC-94
+CAPEC-114,maps_to,T1556.004
+CAPEC-151,maps_to,T1672
+CVE-2026-54274,affects,aio-libs:aiohttp
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-JXV7123S-T
+CVE-2026-56294,affects,capacitor-native-biometric:capacitor-native-biometric
+CWE-602,mapped_to,CAPEC-384
+T1667,mitigated_by,Software Configuration
+CAPEC-134,maps_to,T1055.002
+T1548.004,mitigated_by,Execution Prevention
+CAPEC-545,maps_to,T1601
+CAPEC-519,maps_to,T1216
+CVE-2026-50146,has_weakness,CWE-80
+T1485,mitigated_by,Data Backup
+CVE-2026-54651,has_weakness,CWE-835
+CWE-348,mapped_to,CAPEC-141
+CAPEC-76,maps_to,T1053.006
+CAPEC-695,maps_to,T1157
+CVE-2026-5230,has_weakness,CWE-862
+CAPEC-196,maps_to,T1185
+CAPEC-168,maps_to,T1546.003
+CWE-288,mapped_to,CAPEC-127
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-ZXV2825S-W
+CAPEC-681,maps_to,T1200
+CAPEC-568,maps_to,T1056.002
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-HXV2524-W
+T1210,mitigated_by,Update Software
+CVE-2026-48708,has_weakness,CWE-567
+CAPEC-530,maps_to,T1122
+CAPEC-158,maps_to,T1011
+CAPEC-657,maps_to,T1020
+CVE-2026-11777,has_weakness,CWE-89
+CVE-2025-69176,has_weakness,CWE-98
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-HXV8025S-W
+CAPEC-670,maps_to,T1518
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-EM7126E6S-W
+CAPEC-440,maps_to,T1195.003
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-EX4026E6S-W
+CAPEC-163,maps_to,T1598.002
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-ZW2222-T-1
+CVE-2025-66389,affects,n/a:n/a
+CAPEC-292,maps_to,T1614.001
+CVE-2026-39197,affects,n/a:n/a
+CAPEC-412,maps_to,T1035
+CVE-2026-49502,has_weakness,CWE-287
+CWE-311,mapped_to,CAPEC-37
+CAPEC-66,maps_to,T1134.005
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-LN60VG2V-E5
+CWE-118,mapped_to,CAPEC-47
+CVE-2026-46903,affects,Oracle Corporation:JD Edwards EnterpriseOne Tools
+CVE-2025-68045,has_weakness,CWE-862
+CWE-294,mapped_to,CAPEC-652
+T1011,mitigated_by,Operating System Configuration
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Wireless LAN Adapters for Room Air Conditioners (outside Japan) MAC-557IF-E
+CVE-2026-12811,has_weakness,CWE-94
+CVE-2026-48939,has_weakness,CWE-284
+CVE-2026-1767,has_weakness,CWE-805
+CAPEC-96,maps_to,T1006
+CAPEC-695,maps_to,T1038
+CVE-2025-55650,has_weakness,CWE-416
+CWE-149,mapped_to,CAPEC-468
+CAPEC-476,maps_to,T1134.004
+CVE-2026-50889,affects,n/a:n/a
+CAPEC-135,maps_to,T1134.005
+CAPEC-443,maps_to,T1204.003
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Wireless LAN Adapters for Room Air Conditioners (for Japan) MAC-895IF
+CVE-2026-12622,affects,Microchip:GridTime 3000
+CVE-2026-7300,affects,RTI:Connext Professional
+CWE-693,mapped_to,CAPEC-668
+CVE-2026-48780,affects,forem:forem
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-ZW3620S-W
+CVE-2026-12300,affects,Mozilla:Firefox
+CAPEC-65,maps_to,T1137
+CWE-733,mapped_to,CAPEC-8
+CWE-1242,mapped_to,CAPEC-36
+T1525,mitigated_by,Code Signing
+CVE-2026-12291,affects,Mozilla:Thunderbird
+CAPEC-445,maps_to,T1492
+CAPEC-653,maps_to,T1569.003
+CAPEC-326,maps_to,T1562.002
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-LN35VGR-ER1
+CAPEC-21,maps_to,T1068
+CVE-2025-69103,has_weakness,CWE-862
+CAPEC-260,maps_to,T1137
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-AP25VGK-E8
+CWE-20,mapped_to,CAPEC-31
+T1568.002,mitigated_by,Restrict Web-Based Content
+CVE-2026-55202,has_weakness,CWE-290
+T1548.003,mitigated_by,Operating System Configuration
+T1078.002,mitigated_by,Multi-factor Authentication
+T1601.001,mitigated_by,Code Signing
+CWE-119,mapped_to,CAPEC-10
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-LN35VG4FB-SC1
+CVE-2025-69149,has_weakness,CWE-98
+CWE-522,mapped_to,CAPEC-600
+CAPEC-604,maps_to,T1669
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-ZW3622S-T-2
+CVE-2026-36670,affects,n/a:n/a
+CVE-2026-12528,affects,Red Hat:Red Hat Directory Server 12
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-EF50VGK2S-ET1
+CVE-2026-34023,affects,Wertheim GmbH:Wertheim SafeController Software for VAULT ROOMS (Safe Deposit Locker System)
+CVE-2026-49769,affects,Tomdever:wpForo Forum
+T1484.001,mitigated_by,Audit
+CVE-2026-46979,affects,Oracle Corporation:PeopleSoft Enterprise CS Campus Community
+CAPEC-395,maps_to,T1108
+CAPEC-221,maps_to,T1133
+CAPEC-455,maps_to,T1204.005
+CAPEC-649,maps_to,T1176.002
+CAPEC-185,maps_to,T1156
+CAPEC-636,maps_to,T1204.001
+T1539,mitigated_by,Audit
+CVE-2026-52693,affects,impleCode:eCommerce Product Catalog
+T1098,mitigated_by,Multi-factor Authentication
+CAPEC-478,maps_to,T1050
+CAPEC-425,maps_to,T1608.004
+CAPEC-252,maps_to,T1114.001
+CAPEC-54,maps_to,T1019
+CVE-2026-48980,has_weakness,CWE-807
+CVE-2025-60230,affects,Themeton:The Barber Shop
+CAPEC-155,maps_to,T1598
+T1210,mitigated_by,Privileged Account Management
+CAPEC-673,maps_to,T1213.004
+CAPEC-551,maps_to,T1050
+CVE-2026-39560,has_weakness,CWE-502
+CAPEC-57,maps_to,T1127
+CVE-2026-10836,has_weakness,CWE-644
+T1547.008,mitigated_by,Restrict Library Loading
+CAPEC-408,maps_to,T1589
+CVE-2017-20282,affects,Soft-Php:jCart for OpenCart
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-EF25VGKW-E1
+CVE-2026-24637,affects,Blubrry Podcasting:PowerPress Podcasting
+T1505,mitigated_by,User Account Management
+T1212,mitigated_by,Threat Intelligence Program
+CAPEC-590,maps_to,T1590.005
+CAPEC-163,maps_to,T1598
+CWE-285,mapped_to,CAPEC-5
+CVE-2026-39580,affects,Select-Themes:Micdrop
+T1041,mitigated_by,Data Loss Prevention
+CAPEC-620,maps_to,T1600
+T1003.001,mitigated_by,Password Policies
+CVE-2026-39554,affects,Elated-Themes:Fidalgo
+CAPEC-171,maps_to,T1494
+T1542.005,mitigated_by,Privileged Account Management
+CAPEC-76,maps_to,T1674
+CAPEC-186,maps_to,T1195.002
+CVE-2026-5667,affects,"Mitsubishi Electric Corporation:Adapters for Airflow Ventilation Systems, Heat Pump Chilled/Hot Water Systems, and Ventilation/Air-Conditioning System Air Resorts (for Japan) P-HM05WA"
+CAPEC-213,maps_to,T1599.001
+CAPEC-158,maps_to,T1562.013
+CVE-2026-48124,has_weakness,CWE-829
+CVE-2026-12771,affects,BerriAI:litellm
+CAPEC-83,maps_to,T1181
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-LN60VG2W-E5
+CVE-2026-46778,has_weakness,CWE-306
+CAPEC-615,maps_to,T1562.010
+CVE-2026-53900,has_weakness,CWE-384
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-LZ35VUFM-ET1
+CVE-2026-24611,affects,WPMet:MetForm Pro
+CWE-494,mapped_to,CAPEC-695
+CWE-829,mapped_to,CAPEC-228
+CAPEC-66,maps_to,T1221
+CWE-172,mapped_to,CAPEC-267
+CAPEC-196,maps_to,T1555.004
+CVE-2026-8157,has_weakness,CWE-269
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSXY-FP13VGK-SG2
+CVE-2026-11358,affects,"themeisle:Orbit Fox: Duplicate Page, Menu Icons, SVG Support, Cookie Notice, Custom Fonts & More"
+CVE-2026-27870,has_weakness,CWE-79
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-EM6321E9S-W-1
+CWE-80,mapped_to,CAPEC-32
+CVE-2024-27928,has_weakness,CWE-308
+CVE-2026-46866,has_weakness,CWE-400
+CVE-2026-42651,has_weakness,CWE-862
+CVE-2026-46806,affects,Oracle Corporation:Oracle WebCenter Content
+CVE-2026-47647,affects,Microsoft:Microsoft Dynamics 365
+CAPEC-698,maps_to,T1204.002
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-XD2225-W
+T1003.002,mitigated_by,Password Policies
+CAPEC-545,maps_to,T1216
+CAPEC-531,maps_to,T1122
+CAPEC-184,maps_to,T1045
+CAPEC-673,maps_to,T1219.002
+CVE-2026-53847,affects,OpenClaw:OpenClaw
+T1609,mitigated_by,User Account Management
+CAPEC-408,maps_to,T1597
+CVE-2026-46916,has_weakness,CWE-306
+CAPEC-555,maps_to,T1559.003
+CVE-2026-44587,has_weakness,CWE-79
+CVE-2026-12442,affects,Google:Chrome
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-ZW3626S-W
+CVE-2026-56215,affects,Capgo:Capgo
+CVE-2026-46878,affects,Oracle Corporation:JD Edwards EnterpriseOne Tools
+CVE-2026-40753,has_weakness,CWE-502
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-HR50VFK-ET2
+CAPEC-240,maps_to,T1496
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-FZ9021S-W
+T1584.002,mitigated_by,Pre-compromise
+CVE-2026-50269,has_weakness,CWE-113
+T1598.002,mitigated_by,User Training
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-JXV2226-W
+T1539,mitigated_by,User Training
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MFZ-KT25VGK-E1
+CVE-2026-42640,affects,Mamunur Rashid:Classified Listing
+CAPEC-454,maps_to,T1600.002
+CAPEC-196,maps_to,T1550.004
+CVE-2024-47477,has_weakness,CWE-295
+CAPEC-214,maps_to,T1546.011
+CVE-2025-69105,affects,ThemeREX:Modernee
+CAPEC-470,maps_to,T1018
+CAPEC-639,maps_to,T1562.012
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-FD56F1S-W
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-LN50VG4FL-SC1
+CVE-2026-39007,has_weakness,CWE-200
+CAPEC-235,maps_to,T1614
+CVE-2026-49460,affects,py-pdf:pypdf
+CAPEC-153,maps_to,T1565
+CVE-2026-39006,has_weakness,CWE-502
+CAPEC-404,maps_to,T1592
+CAPEC-205,maps_to,T1203
+CAPEC-479,maps_to,T1553.004
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-EX2523E3-W
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-LN35VG2B-E3
+CVE-2026-8049,affects,SignalRGB:SignalRGB kernel driver
+CAPEC-395,maps_to,T1134
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-JXV2224-W
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-VXV4023S-W
+CAPEC-542,maps_to,T1587.001
+CAPEC-468,maps_to,T1134.001
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-FZ8026S-W
+CVE-2026-54193,affects,ThemeFusion:Fusion Builder
+T1114.001,mitigated_by,Out-of-Band Communications Channel
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-HR25VFK-ET1
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-LN25VG3V-E1
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-LN35VG3W-E1
+T1048,mitigated_by,Data Loss Prevention
+CWE-680,mapped_to,CAPEC-10
+T1594,mitigated_by,Pre-compromise
+CAPEC-523,maps_to,T1204.003
+CAPEC-310,maps_to,T1176
+CAPEC-679,maps_to,T1687
+CVE-2026-34028,has_weakness,CWE-425
+CWE-693,mapped_to,CAPEC-22
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-LN60VG3V-A1
+CAPEC-228,maps_to,T1178
+CWE-1270,mapped_to,CAPEC-121
+CAPEC-594,maps_to,T1055
+CAPEC-593,maps_to,T1198
+CAPEC-21,maps_to,T1212
+CWE-1311,mapped_to,CAPEC-233
+CVE-2026-39007,affects,n/a:n/a
+CVE-2026-0134,affects,Google:Android
+CWE-444,mapped_to,CAPEC-33
+CVE-2016-20094,has_weakness,CWE-428
+CAPEC-451,maps_to,T1584.008
+CAPEC-598,maps_to,T1557.003
+CAPEC-95,maps_to,T1595.003
+T1602.002,mitigated_by,Network Intrusion Prevention
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-EF35VGK2S-E1
+CVE-2026-39583,has_weakness,CWE-266
+CVE-2026-34030,has_weakness,CWE-73
+CVE-2026-48836,affects,MantraBrain:Easy Invoice
+CVE-2026-45390,affects,n/a:n/a
+CVE-2026-54665,affects,Apache Software Foundation:Apache NiFi
+T1602,mitigated_by,Update Software
+CVE-2026-50169,has_weakness,CWE-200
+CVE-2026-8383,affects,Unknown:LearnPress
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-EX5623E3S-W
+CVE-2026-46869,affects,Oracle Corporation:MySQL Shell
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-HR50VFK-ET1
+CVE-2025-69130,has_weakness,CWE-502
+CAPEC-555,maps_to,T1210
+CVE-2026-39529,has_weakness,CWE-502
+T1021.001,mitigated_by,Privileged Account Management
+CAPEC-216,maps_to,T1026
+CAPEC-679,maps_to,T1167
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-LZ25VUFM-SC1
+CAPEC-635,maps_to,T1547
+CAPEC-550,maps_to,T1543.003
+CAPEC-678,maps_to,T1542.001
+CVE-2026-12161,has_weakness,CWE-78
+CVE-2026-49770,has_weakness,CWE-502
+T1078.004,mitigated_by,User Training
+CAPEC-669,maps_to,T1518.001
+CAPEC-55,maps_to,T1174
+T1110.003,mitigated_by,Multi-factor Authentication
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-HR71VFK2-ET1
+CAPEC-681,maps_to,T1518.001
+CAPEC-691,maps_to,T1219.002
+CAPEC-61,maps_to,T1185
+CVE-2026-0156,affects,Google:Android
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-BT50VGK-E2
+CAPEC-639,maps_to,T1601.002
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-ZW3621S-T-1
+CVE-2026-39560,affects,Select-Themes:Hiroshi
+CVE-2026-40771,affects,Wasiliy Strecker:Contest Gallery
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-FZ5625S-W
+T1608.002,mitigated_by,Pre-compromise
+CVE-2026-46971,has_weakness,CWE-284
+CAPEC-533,maps_to,T1554
+CVE-2026-48886,affects,Ahmad:JS Help Desk
+CVE-2026-9860,has_weakness,CWE-434
+CVE-2026-39514,affects,Cozmoslabs:Paid Member Subscriptions
+CAPEC-575,maps_to,T1548.002
+CAPEC-41,maps_to,T1181
+CAPEC-516,maps_to,T1505.004
+CAPEC-386,maps_to,T1499.003
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-HR35VFK2-E6
+CAPEC-187,maps_to,T1505
+CAPEC-267,maps_to,T1132.002
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-ZXV2222-T-1
+CVE-2026-41049,has_weakness,CWE-303
+CWE-209,mapped_to,CAPEC-54
+CAPEC-681,maps_to,T1167
+T1059.002,mitigated_by,Execution Prevention
+CAPEC-643,maps_to,T1216
+CAPEC-550,maps_to,T1543.005
+CAPEC-192,maps_to,T1094
+CWE-350,mapped_to,CAPEC-89
+CVE-2026-0142,has_weakness,CWE-125
+CVE-2025-69136,has_weakness,CWE-98
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-ZW2823S-W
+CAPEC-41,maps_to,T1546.012
+T1498,mitigated_by,Filter Network Traffic
+CAPEC-434,maps_to,T1608.005
+CAPEC-600,maps_to,T1214
+CAPEC-389,maps_to,T1564.010
+CAPEC-183,maps_to,T1055
+CVE-2026-54812,affects,StylemixThemes:Motors
+CVE-2026-54814,has_weakness,CWE-98
+CAPEC-414,maps_to,T1001.003
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-ZY5624S-W
+CVE-2026-50141,affects,woodpecker-ci:woodpecker
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-ZXV8024S-W
+CAPEC-277,maps_to,T1048
+CVE-2026-48867,has_weakness,CWE-79
+CVE-2026-9862,has_weakness,CWE-78
+CVE-2026-12774,affects,BerriAI:litellm
+CAPEC-557,maps_to,T1518.002
+CAPEC-610,maps_to,T1221
+CAPEC-67,maps_to,T1589
+CVE-2026-49342,has_weakness,CWE-22
+CVE-2026-48997,has_weakness,CWE-78
+CAPEC-90,maps_to,T1621
+CVE-2026-48970,has_weakness,CWE-288
+CAPEC-114,maps_to,T1556.006
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-FT25VGK-SC2
+CAPEC-549,maps_to,T1183
+T1048.003,mitigated_by,Network Segmentation
+CVE-2026-50519,affects,Microsoft:GitHub Copilot Chat
+CVE-2026-46900,has_weakness,CWE-284
+CAPEC-578,maps_to,T1213.004
+CWE-78,mapped_to,CAPEC-88
+CAPEC-681,maps_to,T1687
+CVE-2026-12328,affects,Mozilla:Firefox
+CVE-2026-28575,has_weakness,CWE-400
+CAPEC-123,maps_to,T1565
+CAPEC-54,maps_to,T1213
+CWE-1247,mapped_to,CAPEC-625
+CAPEC-16,maps_to,T1174
+CAPEC-64,maps_to,T1553.005
+CVE-2025-69138,affects,Jthemes:Genemy
+CAPEC-6,maps_to,T1055
+CWE-89,mapped_to,CAPEC-110
+CVE-2026-54100,has_weakness,CWE-295
+CAPEC-309,maps_to,T1599.001
+CAPEC-88,maps_to,T1659
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-ZY09VFK
+CVE-2025-55661,affects,n/a:n/a
+CVE-2026-12119,has_weakness,CWE-862
+CAPEC-466,maps_to,T1088
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-LN50VG2W-ET3
+CVE-2026-54195,affects,Jetmonsters:JetFormBuilder
+CVE-2026-12795,affects,BerriAI:litellm
+CAPEC-473,maps_to,T1562.011
+CVE-2026-35271,affects,Oracle Corporation:PeopleSoft Enterprise PT PeopleTools
+CWE-172,mapped_to,CAPEC-64
+CWE-680,mapped_to,CAPEC-24
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-ZW5622S-T
+CAPEC-475,maps_to,T1672
+CVE-2026-49110,affects,WP Swings:Upsell Order Bump Offer for WooCommerce
+T1027.009,mitigated_by,Antivirus/Antimalware
+CVE-2025-69176,affects,ThemeREX:ITactics
+CWE-1021,mapped_to,CAPEC-654
+CWE-116,mapped_to,CAPEC-81
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-FT35VGK2-E1
+CVE-2021-47985,has_weakness,CWE-428
+CAPEC-565,maps_to,T1110.003
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-RK2525-W
+CVE-2026-10029,affects,"eventkoi:Event Koi Lite – Events Calendar, Event Management, RSVP, and Tickets"
+T1106,mitigated_by,Execution Prevention
+T1070.003,mitigated_by,Restrict File and Directory Permissions
+CAPEC-562,maps_to,T1685.003
+CAPEC-51,maps_to,T1050
+T1204.001,mitigated_by,Restrict Web-Based Content
+CAPEC-183,maps_to,T1202
+CAPEC-138,maps_to,T1221
+CAPEC-458,maps_to,T1555.002
+CVE-2026-7273,affects,Zyxel:GS1900-48 firmware
+CAPEC-17,maps_to,T1204.001
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-ZW4021S-W-1
+CAPEC-578,maps_to,T1685.004
+CAPEC-412,maps_to,T1210
+T1041,mitigated_by,Network Intrusion Prevention
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-RZ35VU-E1
+CAPEC-277,maps_to,T1565.002
+CWE-200,mapped_to,CAPEC-497
+CVE-2026-48909,affects,joomshaper.net:SP LMS extension for Joomla
+T1090.004,mitigated_by,SSL/TLS Inspection
+CVE-2026-48783,has_weakness,CWE-749
+CAPEC-30,maps_to,T1184
+CAPEC-600,maps_to,T1555
+CAPEC-555,maps_to,T1021
+CAPEC-649,maps_to,T1176.001
+CAPEC-211,maps_to,T1499.003
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-EF42VGKW-ET1
+CAPEC-269,maps_to,T1494
+CVE-2025-69122,affects,ThemeREX:SeaFood Company
+CAPEC-389,maps_to,T1499.003
+CVE-2026-55745,affects,Cotonti:Cotonti
+CAPEC-577,maps_to,T1033
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-XK6326S-W
+CWE-327,mapped_to,CAPEC-97
+CWE-173,mapped_to,CAPEC-53
+CVE-2026-50269,affects,aio-libs:aiohttp
+CAPEC-171,maps_to,T1493
+CAPEC-226,maps_to,T1091
+CWE-285,mapped_to,CAPEC-127
+T1059.005,mitigated_by,Disable or Remove Feature or Program
+CVE-2026-12256,has_weakness,CWE-502
+CAPEC-279,maps_to,T1494
+CVE-2026-49358,affects,pontedilana:php-weasyprint
+CAPEC-90,maps_to,T1556.003
+CVE-2026-47963,affects,Adobe:DNG SDK
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-AP50VGK-E2
+CVE-2026-12225,affects,syracom AG:Secure Login (2FA) for Jira
+CWE-15,mapped_to,CAPEC-146
+CAPEC-702,maps_to,T1195.003
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-ZW6322S-W-2
+T1578.001,mitigated_by,Audit
+CAPEC-557,maps_to,T1195.002
+CAPEC-101,maps_to,T1584.003
+CVE-2026-46877,has_weakness,CWE-269
+CAPEC-669,maps_to,T1518
+T1586,mitigated_by,Pre-compromise
+CVE-2026-10623,has_weakness,CWE-639
+CWE-1258,mapped_to,CAPEC-204
+CWE-118,mapped_to,CAPEC-8
+CVE-2026-6047,affects,The Document Foundation:LibreOffice
+CVE-2025-55644,has_weakness,CWE-416
+CAPEC-155,maps_to,T1592
+CAPEC-309,maps_to,T1037.003
+CVE-2026-53848,has_weakness,CWE-184
+CVE-2026-56210,affects,Red Hat:Red Hat Hardened Images
+CAPEC-144,maps_to,T1682
+CAPEC-478,maps_to,T1685.001
+CWE-347,mapped_to,CAPEC-463
+CAPEC-235,maps_to,T1569.003
+T1566.002,mitigated_by,User Account Management
+CAPEC-657,maps_to,T1518
+T1098.001,mitigated_by,Disable or Remove Feature or Program
+CVE-2025-70102,has_weakness,CWE-476
+CAPEC-268,maps_to,T1685.004
+CVE-2026-56422,affects,misp:misp
+CAPEC-126,maps_to,T1599.001
+CAPEC-551,maps_to,T1583.006
+CVE-2026-47633,affects,Microsoft:Microsoft Cost Management
+CAPEC-180,maps_to,T1094
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-LN35VGB-A1
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-R2525-W
+CVE-2026-49776,has_weakness,CWE-89
+T1548,mitigated_by,Execution Prevention
+CVE-2026-12161,affects,Devolutions:Remote Desktop Manager
+CVE-2026-50184,has_weakness,CWE-524
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-VXV8022S-W
+T1027.013,mitigated_by,Behavior Prevention on Endpoint
+CWE-693,mapped_to,CAPEC-477
+CVE-2026-48505,has_weakness,CWE-362
+T1222.002,mitigated_by,Privileged Account Management
+CAPEC-166,maps_to,T1124
+CVE-2026-49248,has_weakness,CWE-61
+CVE-2026-40775,has_weakness,CWE-862
+CVE-2026-50559,has_weakness,CWE-863
+T1048,mitigated_by,User Account Management
+CAPEC-388,maps_to,T1563
+CAPEC-589,maps_to,T1054
+CVE-2026-52694,has_weakness,CWE-497
+CAPEC-653,maps_to,T1018
+CAPEC-692,maps_to,T1490
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-ZW2222-W-1
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-EF35VGKW-E1
+CVE-2026-1764,affects,Red Hat:Red Hat Enterprise Linux 8
+CWE-654,mapped_to,CAPEC-565
+T1565.001,mitigated_by,Encrypt Sensitive Information
+CAPEC-446,maps_to,T1542.002
+CAPEC-562,maps_to,T1578.005
+CVE-2026-11784,has_weakness,CWE-352
+CAPEC-470,maps_to,T1088
+CVE-2026-48868,has_weakness,CWE-639
+T1213.004,mitigated_by,User Account Management
+CWE-285,mapped_to,CAPEC-402
+T1484,mitigated_by,Audit
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-FZ90F1S-W
+CVE-2026-38812,has_weakness,CWE-89
+CAPEC-620,maps_to,T1079
+CVE-2026-56229,has_weakness,CWE-639
+T1095,mitigated_by,Filter Network Traffic
+CWE-1239,mapped_to,CAPEC-150
+CAPEC-497,maps_to,T1680
+CAPEC-511,maps_to,T1195.001
+CAPEC-165,maps_to,T1565.001
+T1550.001,mitigated_by,Application Developer Guidance
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-LZ35VUFM-E1
+CVE-2026-3195,has_weakness,CWE-122
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-LZ50VUFM-ET1
+CAPEC-678,maps_to,T1033
+CVE-2026-49338,affects,sentriz:gonic
+CVE-2026-47847,affects,Bitnami:bitnami/mariadb-galera Helm chart
+CAPEC-252,maps_to,T1098.007
+CVE-2026-39547,affects,Select-Themes:Getaway
+CVE-2026-12315,affects,Mozilla:Firefox
+CAPEC-542,maps_to,T1070.010
+CAPEC-135,maps_to,T1183
+CAPEC-148,maps_to,T1564.010
+CVE-2026-46852,affects,Oracle Corporation:Oracle Enterprise Manager Base Platform
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-LN50VG2R-ET2
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-EF22VGKW-ET2
+CWE-201,mapped_to,CAPEC-613
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-ZXV2522-T-2
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-RK6323S-W
+CVE-2026-40791,has_weakness,CWE-79
+T1132,mitigated_by,Network Intrusion Prevention
+CWE-315,mapped_to,CAPEC-39
+CAPEC-240,maps_to,T1564.009
+CAPEC-76,maps_to,T1529
+CAPEC-479,maps_to,T1587.003
+CVE-2026-12316,affects,Mozilla:Thunderbird
+CAPEC-38,maps_to,T1016
+CAPEC-134,maps_to,T1221
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-ZXV3621-W-1
+CAPEC-455,maps_to,T1204.004
+CVE-2026-52911,affects,Linux:Linux
+CAPEC-643,maps_to,T1591.003
+CAPEC-384,maps_to,T1552.008
+CAPEC-257,maps_to,T1665
+CAPEC-478,maps_to,T1555.004
+CAPEC-681,maps_to,T1592.001
+CWE-404,mapped_to,CAPEC-131
+CVE-2026-6653,has_weakness,CWE-416
+T1558.003,mitigated_by,Password Policies
+CVE-2026-52718,affects,Red Hat:Red Hat Enterprise Linux 10
+CVE-2026-4367,affects,Red Hat:Red Hat Enterprise Linux 9
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-ZW5624S-W
+CAPEC-656,maps_to,T1566.004
+CAPEC-445,maps_to,T1063
+CAPEC-522,maps_to,T1505.004
+CAPEC-160,maps_to,T1588.005
+CAPEC-88,maps_to,T1183
+CAPEC-530,maps_to,T1109
+CVE-2026-46808,has_weakness,CWE-284
+CAPEC-292,maps_to,T1615
+CVE-2025-60223,affects,QuantumCloud:WPBot Pro Wordpress Chatbot
+CAPEC-625,maps_to,T1546.012
+CAPEC-501,maps_to,T1149
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Wireless LAN Adapters for Room Air Conditioners (for Japan) HM-EM02MJ
+CVE-2026-56208,affects,Red Hat:Red Hat Enterprise Linux 10
+T1589.003,mitigated_by,Pre-compromise
+CWE-89,mapped_to,CAPEC-470
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-AY15VGK2-ET1
+CVE-2026-12299,has_weakness,CWE-843
+CAPEC-478,maps_to,T1567
+T1036,mitigated_by,Code Signing
+CAPEC-519,maps_to,T1055.008
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-JXV2823-W
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-AY25VGK-SC1
+CVE-2026-12221,has_weakness,CWE-121
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-ZXV6326S-W
+CVE-2026-40723,has_weakness,CWE-862
+CVE-2026-55196,has_weakness,CWE-306
+CWE-41,mapped_to,CAPEC-3
+CVE-2026-54220,affects,UBB Systems:UBB.threads
+CAPEC-176,maps_to,T1565.002
+CAPEC-453,maps_to,T1219.003
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-ZD8022S-W
+CAPEC-670,maps_to,T1518.002
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-BT50VGK-ET2
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-ZXV2520-W
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-LN50VG3R-E1
+CAPEC-405,maps_to,T1593.001
+T1053.003,mitigated_by,Audit
+T1567.002,mitigated_by,Restrict Web-Based Content
+CAPEC-461,maps_to,T1505.005
+CVE-2026-42666,affects,Dimitri Grassi:Salon booking system
+CVE-2026-53663,has_weakness,CWE-352
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Wireless LAN Adapters for Packaged Air Conditioners (for Japan) PAC-SK43ML
+CAPEC-309,maps_to,T1669
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-LN50VG2V-EN2
+CAPEC-574,maps_to,T1133
+CAPEC-552,maps_to,T1505.006
+CVE-2026-12628,affects,IBM:Storage Protect Snapshot For Windows
+CVE-2026-12467,has_weakness,CWE-416
+T1559,mitigated_by,Software Configuration
+T1685,mitigated_by,Restrict File and Directory Permissions
+CVE-2017-20280,affects,Myportfolio:Myportfolio
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-AY35VGK2-ET1
+CVE-2026-48823,affects,shaarli:Shaarli
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-EM2222E1-W
+CVE-2026-12306,affects,Mozilla:Thunderbird
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-BT20VGK-E1
+CAPEC-562,maps_to,T1562.008
+CVE-2026-27407,affects,Meow Apps:AI Engine
+CWE-770,mapped_to,CAPEC-490
+T1530,mitigated_by,Encrypt Sensitive Information
+CAPEC-136,maps_to,T1055.002
+CAPEC-185,maps_to,T1219.002
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-JXV2525-W
+CVE-2026-48783,has_weakness,CWE-862
+CAPEC-653,maps_to,T1003.005
+CWE-162,mapped_to,CAPEC-635
+T1021.002,mitigated_by,Filter Network Traffic
+CAPEC-523,maps_to,T1027.002
+CVE-2026-8356,affects,The Document Foundation:LibreOffice
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-ZW2521-T
+CAPEC-306,maps_to,T1037.001
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-LN25VG2W-E2
+CVE-2026-52721,affects,Red Hat:Red Hat Enterprise Linux 10
+T1585.003,mitigated_by,Pre-compromise
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-AP20VGK-ET1
+CVE-2026-12111,has_weakness,CWE-200
+CVE-2026-44727,has_weakness,CWE-79
+CVE-2026-41048,affects,presire:qSnapper
+CAPEC-108,maps_to,T1218
+CAPEC-272,maps_to,T1071
+CWE-349,mapped_to,CAPEC-141
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-ZW2825S-W
+CAPEC-153,maps_to,T1565.001
+CAPEC-694,maps_to,T1016.001
+T1552.007,mitigated_by,Network Segmentation
+T1212,mitigated_by,Application Developer Guidance
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-LN25VG2B-A3
+CVE-2026-48885,affects,Groundhogg:HollerBox
+CWE-276,mapped_to,CAPEC-81
+CAPEC-681,maps_to,T1547.005
+CAPEC-539,maps_to,T1204.001
+CAPEC-268,maps_to,T1492
+CAPEC-654,maps_to,T1555.004
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-LZ35VUMW-SC1
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-RZ25VU-ET1
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-HXV4022S-W-1
+CAPEC-650,maps_to,T1583.007
+CWE-354,mapped_to,CAPEC-145
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-AY15VGKP-ER1
+CWE-648,mapped_to,CAPEC-234
+CAPEC-520,maps_to,T1559.001
+CVE-2017-20276,has_weakness,CWE-89
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-LN50VG2R-E2
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSXY-FP18VGK-SG2
+CAPEC-449,maps_to,T1608.001
+CAPEC-635,maps_to,T1648
+CVE-2026-48716,affects,HKUDS:nanobot
+CAPEC-639,maps_to,T1552.001
+CVE-2026-54223,affects,UBB Systems:UBB.threads
+CAPEC-624,maps_to,T1546.001
+CAPEC-67,maps_to,T1592
+CVE-2026-39465,affects,MetaSlider:Responsive Slider by MetaSlider
+CAPEC-4,maps_to,T1589.002
+CWE-654,mapped_to,CAPEC-49
+CVE-2024-33909,affects,Avirtum:iPages Flipbook
+CWE-1302,mapped_to,CAPEC-121
+CVE-2026-8805,affects,Mitsubishi Electric Corporation:Mitsubishi Electric MELSEC iQ-F Series FX5-EIP EtherNet/IP Module FX5-EIP
+CAPEC-643,maps_to,T1601.002
+CVE-2026-40791,affects,codepeople:WP Time Slots Booking Form
+CVE-2026-27410,has_weakness,CWE-502
+CAPEC-691,maps_to,T1195.002
+CAPEC-35,maps_to,T1574.005
+CWE-1310,mapped_to,CAPEC-682
+CVE-2026-1767,affects,Red Hat:Red Hat Enterprise Linux 9
+CAPEC-249,maps_to,T1070.002
+CVE-2026-46935,affects,"Oracle Corporation:Oracle Complex Maintenance, Repair and Overhaul"
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-AP35VGKD2-A2
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-ZW3621-T-1
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-ZD4023S-W
+CVE-2026-40799,has_weakness,CWE-288
+CAPEC-164,maps_to,T1566.002
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-AP35VGK-EN3
+CAPEC-186,maps_to,T1204.002
+CAPEC-57,maps_to,T1601.001
+CAPEC-578,maps_to,T1686
+CVE-2026-10641,has_weakness,CWE-787
+CAPEC-51,maps_to,T1501
+CAPEC-260,maps_to,T1203
+CVE-2026-22325,has_weakness,CWE-98
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSXY-FP20VGK-SG2
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-RK6326S-W
+CAPEC-562,maps_to,T1685.004
+CAPEC-593,maps_to,T1055.003
+CAPEC-155,maps_to,T1552.001
+CVE-2024-30476,has_weakness,CWE-79
+T1112,mitigated_by,Restrict Registry Permissions
+CVE-2026-12822,has_weakness,CWE-74
+CWE-707,mapped_to,CAPEC-468
+CVE-2026-12307,has_weakness,CWE-119
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-FZ4026S-W
+CAPEC-6,maps_to,T1134.005
+CAPEC-145,maps_to,T1672
+T1027,mitigated_by,User Training
+CAPEC-657,maps_to,T1027.002
+CAPEC-76,maps_to,T1614.001
+T1583.003,mitigated_by,Pre-compromise
+T1685.004,mitigated_by,Audit
+CVE-2026-49104,affects,"CRM Perks:Integration for Keap/infusionsoft and Contact Form 7, WPForms, Elementor, Formidable, Ninja Forms"
+CAPEC-176,maps_to,T1493
+CVE-2026-50268,has_weakness,CWE-256
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-EF25VGKDS-A2
+CAPEC-90,maps_to,T1095
+CVE-2026-55740,affects,Nur-Alam39:bus-ticket
+T1053.006,mitigated_by,Privileged Account Management
+T1574.013,mitigated_by,Behavior Prevention on Endpoint
+CAPEC-176,maps_to,T1134
+T1046,mitigated_by,Network Intrusion Prevention
+CWE-1298,mapped_to,CAPEC-26
+CAPEC-551,maps_to,T1133
+CVE-2025-55663,has_weakness,CWE-476
+T1133,mitigated_by,Network Segmentation
+CAPEC-656,maps_to,T1598.004
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-ZXV6321S-W-1
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Refrigerators (for Japan) MR-MZ54J
+CAPEC-264,maps_to,T1480.001
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-AP25VGK-ET3
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-AY42VGKP2-E1
+CVE-2026-55653,affects,Red Hat:Red Hat OpenShift Container Platform 4
+CAPEC-568,maps_to,T1081
+CWE-131,mapped_to,CAPEC-47
+CAPEC-182,maps_to,T1181
+CVE-2026-5064,affects,HP Inc.:HP One Agent Software
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-ZXV2823-W
+CVE-2026-48599,has_weakness,CWE-639
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-EF50VGKB-ER1
+CVE-2026-49871,affects,Apache Software Foundation:Apache APISIX
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-ZXV9024S-W
+CVE-2026-53842,affects,OpenClaw:OpenClaw
+CAPEC-383,maps_to,T1546
+CVE-2026-0128,has_weakness,CWE-190
+CVE-2026-46867,has_weakness,CWE-269
+CAPEC-226,maps_to,T1565.001
+CVE-2026-48141,affects,NI:grpc-device
+CAPEC-585,maps_to,T1583.001
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-RW50VG-ER1
+CVE-2026-42666,has_weakness,CWE-862
+CVE-2026-12798,has_weakness,CWE-918
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-LN60VG2V-A2
+CVE-2026-4367,has_weakness,CWE-125
+CVE-2026-39578,has_weakness,CWE-502
+CVE-2026-12323,has_weakness,CWE-1021
+CVE-2026-11374,affects,zohocorp:manageengine_m365_manager_plus
+CWE-6,mapped_to,CAPEC-21
+CAPEC-55,maps_to,T1110.003
+CVE-2026-46816,affects,Oracle Corporation:Oracle VM VirtualBox
+CVE-2026-46781,has_weakness,CWE-306
+CAPEC-134,maps_to,T1178
+CAPEC-547,maps_to,T1562.013
+CVE-2026-50891,affects,n/a:n/a
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-AY50VGKP2-ET2
+CVE-2026-53870,affects,NousResearch:hermes-agent
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-ZW2225-W
+T1003.006,mitigated_by,Active Directory Configuration
+CAPEC-516,maps_to,T1219.003
+CAPEC-461,maps_to,T1133
+CWE-522,mapped_to,CAPEC-551
+CVE-2026-6673,has_weakness,CWE-306
+CAPEC-389,maps_to,T1494
+CAPEC-277,maps_to,T1024
+CAPEC-254,maps_to,T1055.011
+T1505,mitigated_by,Restrict Registry Permissions
+CVE-2025-27511,affects,geoserver:org.geoserver.extension:gs-db2
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-ZXV2825-W
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-LZ35VUMW-ET1
+CVE-2026-46880,affects,Oracle Corporation:JD Edwards EnterpriseOne Tools
+CVE-2026-40760,affects,Edge-Themes:Behold
+CVE-2026-0083,has_weakness,CWE-362
+CWE-770,mapped_to,CAPEC-487
+CAPEC-694,maps_to,T1069
+CAPEC-446,maps_to,T1204.003
+CVE-2016-20075,has_weakness,CWE-863
+T1114.003,mitigated_by,Audit
+T1574.011,mitigated_by,Restrict Registry Permissions
+T1555.003,mitigated_by,User Training
+CAPEC-265,maps_to,T1565.003
+CAPEC-76,maps_to,T1056.002
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-XD6325S-W
+CAPEC-82,maps_to,T1496.004
+CVE-2026-12726,has_weakness,CWE-918
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Wireless LAN Adapters for Room Air Conditioners (outside Japan) WIFI-493T-IC-M
+T1114.003,mitigated_by,Out-of-Band Communications Channel
+CVE-2026-39545,has_weakness,CWE-502
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-ZXV2823S-T
+CVE-2026-12305,has_weakness,CWE-119
+CVE-2026-46873,affects,Oracle Corporation:Oracle VM VirtualBox
+CVE-2026-54280,affects,aio-libs:aiohttp
+CVE-2026-47339,has_weakness,CWE-863
+CVE-2026-9610,has_weakness,CWE-425
+T1564.006,mitigated_by,Audit
+CAPEC-695,maps_to,T1574.008
+CVE-2026-46918,affects,Oracle Corporation:Oracle Process Manufacturing Product Development
+CAPEC-643,maps_to,T1490
+CAPEC-276,maps_to,T1094
+CWE-654,mapped_to,CAPEC-560
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-BT20VGK-ER1
+CWE-300,mapped_to,CAPEC-57
+CAPEC-519,maps_to,T1685.004
+CVE-2026-9320,affects,IBM:WebSphere Application Server
+CAPEC-678,maps_to,T1614.001
+CAPEC-497,maps_to,T1016.002
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-ZXV2820-W
+CVE-2026-54386,has_weakness,CWE-79
+T1555.005,mitigated_by,User Account Management
+CVE-2026-46894,affects,Oracle Corporation:Oracle iSupplier Portal
+CAPEC-692,maps_to,T1502
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSY-GA13VFK-SG1
+CVE-2026-52696,affects,Jetimpex Inc.:JetBlog
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-BT35VGK2-E1
+CWE-693,mapped_to,CAPEC-57
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-AP71VGK-E3
+T1548.002,mitigated_by,Privileged Account Management
+CVE-2026-46899,affects,Oracle Corporation:Oracle Enterprise Command Center Framework
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-ZXV2822S-T-1
+T1547.006,mitigated_by,User Account Management
+CVE-2026-48822,has_weakness,CWE-79
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Refrigerators (for Japan) MR-WXD70J
+CAPEC-682,maps_to,T1212
+CAPEC-131,maps_to,T1496
+CWE-119,mapped_to,CAPEC-100
+CAPEC-111,maps_to,T1574.008
+CVE-2026-11784,affects,optimole:Optimole – Optimize Images | Convert WebP & AVIF | CDN & Lazy Load | Image Optimization
+CAPEC-639,maps_to,T1140
+CAPEC-594,maps_to,T1221
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-ZD5624S-W
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-AP42VGK-E6
+CAPEC-676,maps_to,T1134.005
+CVE-2026-3195,affects,Red Hat:Red Hat Enterprise Linux 6
+CVE-2026-48502,has_weakness,CWE-1188
+CVE-2025-69103,affects,Utillz:Brikk
+CAPEC-84,maps_to,T1181
+CAPEC-643,maps_to,T1562.004
+CVE-2026-56697,affects,Nuxt:Nuxt
+CVE-2026-12452,affects,Google:Chrome
+CAPEC-538,maps_to,T1055.001
+CVE-2026-37216,has_weakness,CWE-79
+CWE-20,mapped_to,CAPEC-10
+CVE-2026-34026,has_weakness,CWE-23
+CAPEC-111,maps_to,T1496.001
+T1176.002,mitigated_by,Limit Software Installation
+CAPEC-622,maps_to,T1689
+CAPEC-470,maps_to,T1685.006
+CVE-2026-46864,affects,Oracle Corporation:Oracle Enterprise Manager Base Platform
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-LZ25VUFB-SC1
+CVE-2026-54185,has_weakness,CWE-89
+CAPEC-452,maps_to,T1592.001
+CVE-2026-11791,affects,Red Hat:Red Hat Enterprise Linux 10
+T1565.001,mitigated_by,Remote Data Storage
+T1137.001,mitigated_by,Disable or Remove Feature or Program
+CVE-2026-11860,affects,OpenSolution:Quick.CMS
+CAPEC-277,maps_to,T1048.001
+CVE-2026-49057,has_weakness,CWE-862
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-EF50VGK2S-ET2
+CWE-300,mapped_to,CAPEC-466
+T1574.009,mitigated_by,Restrict File and Directory Permissions
+CVE-2026-27868,affects,Teldat:Regesta Smart HD-PLC - TLDPH16D2
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-HR71VFK-ET1
+CWE-707,mapped_to,CAPEC-7
+CVE-2026-0149,has_weakness,CWE-122
+CWE-311,mapped_to,CAPEC-157
+CAPEC-672,maps_to,T1204.005
+CVE-2025-69161,has_weakness,CWE-98
+CVE-2019-25746,has_weakness,CWE-89
+CAPEC-84,maps_to,T1055.002
+CAPEC-164,maps_to,T1193
+T1686.003,mitigated_by,Restrict Registry Permissions
+T1552.004,mitigated_by,Restrict File and Directory Permissions
+CAPEC-466,maps_to,T1548.002
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-ZD2826S-W
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-AP60VGK-ER4
+CAPEC-166,maps_to,T1501
+CVE-2026-48017,affects,dbgate:dbgate
+CAPEC-82,maps_to,T1561.001
+T1213.006,mitigated_by,User Training
+CVE-2026-48502,has_weakness,CWE-407
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-VXV7124S-W
+CAPEC-479,maps_to,T1649
+CAPEC-51,maps_to,T1214
+CAPEC-270,maps_to,T1023
+CVE-2026-55653,has_weakness,CWE-415
+CWE-1258,mapped_to,CAPEC-37
+CAPEC-192,maps_to,T1071
+CAPEC-673,maps_to,T1072
+CAPEC-196,maps_to,T1506
+CAPEC-384,maps_to,T1138
+CAPEC-643,maps_to,T1591.004
+CVE-2026-46771,affects,Oracle Corporation:Oracle Application Development Framework (ADF)
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-EF18VGKB-E1
+CVE-2026-36521,has_weakness,CWE-79
+CVE-2026-54804,affects,melhorenvio:Melhor Envio
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-FZV8022S-W
+CVE-2026-48969,affects,Really Simple Plugins B.V.:Really Simple SSL
+CAPEC-580,maps_to,T1569.003
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-ZW2823-W
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-HXV7125S-W
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-LN18VG3W-ET1
+CVE-2026-47241,has_weakness,CWE-162
+CAPEC-101,maps_to,T1505
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-AP25VGK-E3
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-LN35VG2V-A1
+CWE-757,mapped_to,CAPEC-220
+T1212,mitigated_by,Update Software
+CAPEC-694,maps_to,T1569.003
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-BT20VGK-ET2
+CVE-2026-35289,has_weakness,CWE-306
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-FZV6321S-W
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-EF35VGKW-E2
+CAPEC-164,maps_to,T1598.004
+CWE-1037,mapped_to,CAPEC-663
+CAPEC-277,maps_to,T1048.003
+CVE-2025-69139,affects,AivahThemes:Car Zone
+CVE-2026-35302,has_weakness,CWE-601
+T1588.002,mitigated_by,Pre-compromise
+CWE-425,mapped_to,CAPEC-143
+CVE-2026-40792,has_weakness,CWE-639
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-LN25VG2B-SC3
+CVE-2020-37253,has_weakness,CWE-428
+CWE-308,mapped_to,CAPEC-555
+CVE-2026-48502,affects,MessagePack-CSharp:MessagePack-CSharp
+CAPEC-639,maps_to,T1027
+CVE-2023-33854,has_weakness,CWE-294
+CAPEC-580,maps_to,T1016
+CVE-2026-52719,affects,Red Hat:Red Hat Enterprise Linux 10
+CAPEC-57,maps_to,T1562.004
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-AP42VGK-EN3
+T1036.005,mitigated_by,Code Signing
+CAPEC-95,maps_to,T1595.002
+CVE-2026-6047,has_weakness,CWE-843
+T1599.001,mitigated_by,Filter Network Traffic
+CVE-2026-54198,affects,David Lingren:Media LIbrary Assistant
+CVE-2026-54445,has_weakness,CWE-204
+T1055.012,mitigated_by,Behavior Prevention on Endpoint
+CAPEC-193,maps_to,T1219.002
+CAPEC-519,maps_to,T1003.007
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-AY20VGKP2-ET2
+CAPEC-450,maps_to,T1070.010
+CVE-2026-12822,has_weakness,CWE-94
+CVE-2026-42775,has_weakness,CWE-79
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-ZA12VFK
+CAPEC-580,maps_to,T1019
+CVE-2026-10658,affects,zephyrproject-rtos:Zephyr
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-FZV9022S-W
+CVE-2025-55661,has_weakness,CWE-122
+CAPEC-556,maps_to,T1036.007
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Wireless LAN Adapters for Room Air Conditioners (for Japan) HM-EM03-W
+CVE-2026-56214,affects,Capgo:Capgo
+CAPEC-528,maps_to,T1499.002
+CVE-2026-7515,has_weakness,CWE-98
+CAPEC-309,maps_to,T1498
+CAPEC-678,maps_to,T1612
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-LN60VG2R-A2
+CVE-2026-49454,affects,szTheory:relyra
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-ZY2526-W
+CAPEC-16,maps_to,T1562.010
+CVE-2026-56407,affects,libexpat project:libexpat
+CAPEC-405,maps_to,T1684
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-ZW8020S-T
+T1071.001,mitigated_by,Network Intrusion Prevention
+CWE-697,mapped_to,CAPEC-9
+CWE-285,mapped_to,CAPEC-45
+CVE-2026-46787,affects,Oracle Corporation:Oracle WebCenter Content
+CWE-288,mapped_to,CAPEC-665
+CAPEC-164,maps_to,T1566.004
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-LN18VG3R-E1
+CAPEC-259,maps_to,T1040
+T1558.002,mitigated_by,Password Policies
+CVE-2026-12360,has_weakness,CWE-89
+CWE-1253,mapped_to,CAPEC-74
+CWE-506,mapped_to,CAPEC-636
+CVE-2026-44913,has_weakness,CWE-116
+CVE-2026-7273,affects,Zyxel:GS1900-8 firmware
+CVE-2025-69121,has_weakness,CWE-98
+CAPEC-643,maps_to,T1529
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-FZV63F1S-W
+T1029,mitigated_by,Network Intrusion Prevention
+CAPEC-473,maps_to,T1684.002
+CAPEC-639,maps_to,T1686
+CVE-2026-48591,has_weakness,CWE-83
+CAPEC-695,maps_to,T1055.003
+CAPEC-186,maps_to,T1518
+CAPEC-516,maps_to,T1122
+CVE-2025-7737,has_weakness,CWE-770
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-EM4020E8S-W
+CAPEC-117,maps_to,T1574.009
+T1203,mitigated_by,Exploit Protection
+CAPEC-166,maps_to,T1049
+CAPEC-235,maps_to,T1574.013
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-LN18VG2R-E5
+CAPEC-412,maps_to,T1574.010
+CAPEC-564,maps_to,T1518.001
+T1542.005,mitigated_by,Operating System Configuration
+T1484,mitigated_by,Privileged Account Management
+CVE-2026-40789,affects,TMS:Amelia
+T1047,mitigated_by,Behavior Prevention on Endpoint
+CAPEC-50,maps_to,T1555
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-LZ25VUFL-ET1
+CAPEC-482,maps_to,T1498.001
+CVE-2026-30802,has_weakness,CWE-125
+CAPEC-643,maps_to,T1018
+T1574,mitigated_by,Restrict File and Directory Permissions
+CAPEC-231,maps_to,T1027.009
+CAPEC-55,maps_to,T1110.001
+CVE-2024-38487,has_weakness,CWE-269
+CAPEC-634,maps_to,T1125
+CAPEC-249,maps_to,T1055.011
+CAPEC-170,maps_to,T1527
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-ZY6326S-W
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-LN18VG4MW-ET1
+CVE-2026-2674,has_weakness,CWE-787
+CAPEC-643,maps_to,T1080
+CVE-2026-46908,has_weakness,CWE-284
+CVE-2026-8668,affects,Progress Chef:Chef360
+T1566.001,mitigated_by,User Account Management
+CVE-2026-40795,affects,TMS:Amelia
+T1574,mitigated_by,Update Software
+CAPEC-265,maps_to,T1565.002
+CAPEC-132,maps_to,T1562.010
+T1003,mitigated_by,Encrypt Sensitive Information
+CWE-940,mapped_to,CAPEC-500
+CVE-2026-54105,affects,Government Accountability Office:Electronic Protest Docketing System (EPDS)
+CVE-2025-69109,affects,ThemeREX:Raider Spirit
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-LN25VG2W-ET5
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-AY42VGKP2-E2
+CAPEC-695,maps_to,T1198
+CVE-2026-54819,has_weakness,CWE-89
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-LN25VG2R-E3
+CVE-2026-34886,affects,wp.insider:Simple Membership
+T1110.004,mitigated_by,User Account Management
+CVE-2026-11832,affects,BIAFRA:Dancer2::Plugin::Auth::OAuth
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-LN50VG2B-ER1
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-ZXV2821S-T
+CWE-1321,mapped_to,CAPEC-1
+CAPEC-251,maps_to,T1087.001
+CAPEC-270,maps_to,T1112
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Refrigerators (for Japan) MR-WZ55H
+T1574.009,mitigated_by,Audit
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-AY25VGK2-E1
+CAPEC-138,maps_to,T1183
+CWE-923,mapped_to,CAPEC-697
+CAPEC-442,maps_to,T1213.004
+CAPEC-310,maps_to,T1505
+CAPEC-566,maps_to,T1110.002
+CVE-2026-49772,has_weakness,CWE-89
+CVE-2019-25763,affects,Ultimatebeaver:Ultimate Addons for Beaver Builder
+CVE-2026-11791,affects,Red Hat:Red Hat Enterprise Linux 9
+CAPEC-187,maps_to,T1045
+CVE-2026-54533,has_weakness,CWE-284
+CAPEC-639,maps_to,T1158
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-EF50VGKS-A1
+CVE-2026-54265,has_weakness,CWE-79
+CVE-2026-12213,has_weakness,CWE-285
+CAPEC-200,maps_to,T1531
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-ZW7123S-T
+CAPEC-290,maps_to,T1173
+CVE-2026-48759,has_weakness,CWE-639
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-AY20VGK2B-E1
+CAPEC-697,maps_to,T1672
+CAPEC-445,maps_to,T1548.006
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-BT25VGK-ET1
+CVE-2026-54282,affects,Kludex:starlette
+T1110,mitigated_by,Password Policies
+CVE-2026-12045,has_weakness,CWE-89
+CVE-2022-50972,affects,WooCommerce:WooCommerce
+CAPEC-166,maps_to,T1543
+T1070.009,mitigated_by,Restrict File and Directory Permissions
+CVE-2026-8172,affects,Unknown:Simple Basic Contact Form
+CVE-2026-48142,affects,F5:NGINX Open Source
+CAPEC-388,maps_to,T1095
+CAPEC-228,maps_to,T1055
+CVE-2026-52721,has_weakness,CWE-125
+CVE-2026-12491,affects,Red Hat:Red Hat AI Inference Server
+CVE-2026-42411,has_weakness,CWE-288
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-HXV4025S-W
+CAPEC-236,maps_to,T1054
+T1564,mitigated_by,Antivirus/Antimalware
+CAPEC-673,maps_to,T1592.002
+CWE-680,mapped_to,CAPEC-14
+CVE-2026-35291,has_weakness,CWE-269
+CWE-1277,mapped_to,CAPEC-682
+CAPEC-549,maps_to,T1480
+CVE-2026-22328,affects,VamTam:Auto Repair
+CAPEC-84,maps_to,T1546.012
+CAPEC-258,maps_to,T1546.011
+CWE-770,mapped_to,CAPEC-528
+CAPEC-413,maps_to,T1535
+CVE-2026-38063,has_weakness,CWE-78
+CAPEC-51,maps_to,T1547.001
+CVE-2026-46809,has_weakness,CWE-284
+CVE-2026-39474,affects,metaphorcreations:Post Duplicator
+CVE-2026-56411,affects,libexpat project:libexpat
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-JXV2825S-W
+CAPEC-84,maps_to,T1178
+CAPEC-465,maps_to,T1090.001
+CWE-172,mapped_to,CAPEC-52
+CAPEC-696,maps_to,T1134.005
+CAPEC-292,maps_to,T1135
+CAPEC-115,maps_to,T1131
+T1104,mitigated_by,Network Intrusion Prevention
+CAPEC-239,maps_to,T1003.005
+CVE-2026-35068,affects,Dell:PowerFlex
+CAPEC-545,maps_to,T1529
+CAPEC-57,maps_to,T1044
+CVE-2026-0068,affects,Google:Android
+CAPEC-388,maps_to,T1198
+CAPEC-6,maps_to,T1564.010
+CVE-2026-22326,has_weakness,CWE-98
+CVE-2026-54415,has_weakness,CWE-269
+CAPEC-640,maps_to,T1186
+CVE-2025-60205,has_weakness,CWE-502
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-LN35VG2B-ER2
+T1091,mitigated_by,Limit Hardware Installation
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-HXV2522-W-1
+CWE-1280,mapped_to,CAPEC-180
+T1686.003,mitigated_by,User Account Management
+T1027.009,mitigated_by,Behavior Prevention on Endpoint
+CVE-2026-54390,has_weakness,CWE-1336
+CAPEC-258,maps_to,T1574.006
+CAPEC-292,maps_to,T1007
+T1556.007,mitigated_by,Audit
+CAPEC-470,maps_to,T1596
+CWE-602,mapped_to,CAPEC-386
+CAPEC-530,maps_to,T1175
+CAPEC-610,maps_to,T1674
+CVE-2026-10034,has_weakness,CWE-862
+CAPEC-226,maps_to,T1589.001
+CAPEC-59,maps_to,T1606
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-AP25VGK-ER1
+CVE-2026-39445,has_weakness,CWE-502
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-HXV7122S-W-2
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-ZXV9022S-W
+CWE-74,mapped_to,CAPEC-76
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-ZXV5620S-T
+T1588.007,mitigated_by,Pre-compromise
+CVE-2026-8039,affects,dijitul:Fancy Testimonials
+CAPEC-560,maps_to,T1590.001
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-LN50VGV-E1
+CVE-2026-10094,affects,Dassault Systèmes:SOLIDWORKS Visualize
+CVE-2025-69140,affects,SeventhQueen:SweetDate Core
+T1546.003,mitigated_by,Behavior Prevention on Endpoint
+CVE-2026-8442,has_weakness,CWE-22
+CWE-1231,mapped_to,CAPEC-680
+CVE-2026-44046,affects,Apache Software Foundation:Apache APISIX
+CAPEC-681,maps_to,T1063
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-AP35VGK-E7
+T1205,mitigated_by,Disable or Remove Feature or Program
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-XD5625S-W
+CVE-2026-53859,has_weakness,CWE-1023
+T1546.004,mitigated_by,Restrict File and Directory Permissions
+CAPEC-84,maps_to,T1055
+CVE-2026-39529,affects,ThemeREX Group:Elementra
+CVE-2025-66391,affects,n/a:n/a
+CVE-2026-44939,affects,SUSE:Rancher
+CVE-2026-52721,affects,Red Hat:Red Hat Enterprise Linux 7
+CAPEC-694,maps_to,T1007
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-HXV4024S-W
+CAPEC-550,maps_to,T1210
+CAPEC-699,maps_to,T1013
+CVE-2026-12289,affects,Mozilla:Firefox
+CVE-2026-0136,affects,Google:Android
+CVE-2026-48989,affects,CursorTouch:Windows-MCP
+CWE-350,mapped_to,CAPEC-142
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-AY35VGKP-E6
+CVE-2026-0130,has_weakness,CWE-122
+CWE-74,mapped_to,CAPEC-51
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-ZW7120S-T
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-ZW4021S-T-1
+CAPEC-30,maps_to,T1055.003
+CAPEC-497,maps_to,T1018
+CAPEC-67,maps_to,T1082
+CVE-2026-53850,affects,OpenClaw:OpenClaw
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Wireless LAN Adapters for Room Air Conditioners (for Japan) HM-WF002EM
+CWE-662,mapped_to,CAPEC-27
+T1199,mitigated_by,User Account Management
+CVE-2026-46976,has_weakness,CWE-284
+CAPEC-65,maps_to,T1671
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-EM71E2S-W
+CAPEC-50,maps_to,T1110.002
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-LN35VG2R-ET2
+CVE-2026-12444,has_weakness,CWE-125
+CAPEC-402,maps_to,T1555.002
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-X2225-W
+CAPEC-277,maps_to,T1071.005
+CAPEC-386,maps_to,T1213.005
+CAPEC-44,maps_to,T1613
+CVE-2026-50887,affects,n/a:n/a
+CAPEC-151,maps_to,T1557.003
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-EM5621E9S-W
+CAPEC-23,maps_to,T1683.002
+CVE-2024-24709,has_weakness,CWE-862
+CAPEC-51,maps_to,T1682
+CVE-2026-20190,affects,Cisco:Cisco ISE Passive Identity Connector
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-EM2822E1-W
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-LN50VG4FM-E1
+CAPEC-681,maps_to,T1003.002
+T1040,mitigated_by,Multi-factor Authentication
+CVE-2026-11317,affects,"Rockwell Automation:CompactLogix, ControlLogix"
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-LN25VG2R-ET5
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-RZ50VU-SC2
+CAPEC-653,maps_to,T1564.005
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-XD3625S-W
+CAPEC-385,maps_to,T1550.001
+CAPEC-583,maps_to,T1011
+CWE-181,mapped_to,CAPEC-80
+CAPEC-106,maps_to,T1552.001
+CVE-2026-46863,affects,Oracle Corporation:MySQL Cluster
+CVE-2026-48895,has_weakness,CWE-601
+CVE-2026-0126,affects,Google:Android
+CVE-2026-7253,affects,IBM:IBM Watson Speech Services Cartridge
+CVE-2026-52715,has_weakness,CWE-89
+CAPEC-57,maps_to,T1007
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-FD4022S-W
+CVE-2026-54099,has_weakness,CWE-269
+CVE-2026-52714,affects,SEO Squirrly:SEO Plugin by Squirrly SEO
+CAPEC-585,maps_to,T1090.004
+CAPEC-166,maps_to,T1499.004
+CVE-2026-12320,affects,Mozilla:Firefox
+CVE-2026-53537,has_weakness,CWE-20
+CAPEC-574,maps_to,T1210
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-LN18VG2V-E3
+CAPEC-694,maps_to,T1526
+CAPEC-168,maps_to,T1543.003
+CAPEC-497,maps_to,T1135
+CAPEC-221,maps_to,T1491.002
+CAPEC-635,maps_to,T1569.002
+CAPEC-220,maps_to,T1565.002
+CVE-2026-12673,affects,liquidfiles:liquidfiles
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-RK3623-W
+CAPEC-206,maps_to,T1588.003
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-LN25VG4FL-SC1
+CVE-2026-56384,has_weakness,CWE-862
+T1587.001,mitigated_by,Pre-compromise
+CAPEC-211,maps_to,T1071
+CAPEC-691,maps_to,T1017
+CAPEC-249,maps_to,T1221
+CAPEC-561,maps_to,T1552.002
+CAPEC-234,maps_to,T1563
+CVE-2026-39568,has_weakness,CWE-98
+CAPEC-616,maps_to,T1591.001
+CAPEC-664,maps_to,T1584.002
+CAPEC-55,maps_to,T1555
+CAPEC-564,maps_to,T1004
+CVE-2026-53846,affects,OpenClaw:OpenClaw
+CVE-2026-46795,has_weakness,CWE-284
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-LN18VG2R-E2
+CAPEC-523,maps_to,T1176
+CWE-309,mapped_to,CAPEC-653
+CVE-2026-12527,affects,Shenzhen Liandian Communication Technology LTD:V380 IP Camera / AppFHE1_V1.0.6.0
+CAPEC-463,maps_to,T1009
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-R7124S-W
+CAPEC-203,maps_to,T1012
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-HXV2525-W
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-AY42VGKP2B-SC6
+CAPEC-50,maps_to,T1490
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-ZW2524-W
+CVE-2026-46797,has_weakness,CWE-284
+CAPEC-647,maps_to,T1114.001
+T1218.003,mitigated_by,Disable or Remove Feature or Program
+CAPEC-485,maps_to,T1564.010
+CAPEC-161,maps_to,T1580
+CVE-2026-49757,affects,team-alembic:ash_authentication
+CAPEC-174,maps_to,T1055
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-LN50VG2R-ET5
+CAPEC-679,maps_to,T1499.004
+CAPEC-664,maps_to,T1583.003
+CWE-494,mapped_to,CAPEC-533
+CAPEC-523,maps_to,T1156
+CVE-2020-37255,has_weakness,CWE-288
+CAPEC-534,maps_to,T1200
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-ZW3622S-W
+CAPEC-629,maps_to,T1602.002
+CAPEC-633,maps_to,T1134.002
+CWE-158,mapped_to,CAPEC-52
+T1565,mitigated_by,Remote Data Storage
+CAPEC-322,maps_to,T1043
+CAPEC-519,maps_to,T1564.005
+CVE-2017-20264,affects,Pulseextensions:Sponsor Wall
+CVE-2026-46868,affects,Oracle Corporation:Oracle Enterprise Manager Base Platform
+CAPEC-196,maps_to,T1056.004
+CAPEC-65,maps_to,T1499.004
+CVE-2026-46417,has_weakness,CWE-918
+CVE-2026-39478,has_weakness,CWE-502
+CWE-770,mapped_to,CAPEC-231
+CAPEC-269,maps_to,T1012
+CAPEC-580,maps_to,T1082
+CVE-2026-46905,affects,Oracle Corporation:JD Edwards EnterpriseOne Tools
+CAPEC-691,maps_to,T1562.011
+CWE-1269,mapped_to,CAPEC-439
+CVE-2026-47242,has_weakness,CWE-93
+CVE-2026-55388,has_weakness,CWE-1321
+CVE-2026-53900,has_weakness,CWE-345
+CAPEC-470,maps_to,T1668
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-LN35VG4FB-E1
+CAPEC-471,maps_to,T1594
+CAPEC-310,maps_to,T1219.002
+CAPEC-520,maps_to,T1195.003
+CVE-2025-69164,has_weakness,CWE-98
+T1218.007,mitigated_by,Disable or Remove Feature or Program
+CAPEC-695,maps_to,T1553.003
+CAPEC-166,maps_to,T1007
+T1003.003,mitigated_by,Privileged Account Management
+CAPEC-164,maps_to,T1194
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-EF25VGKDB-A2
+CVE-2026-7273,affects,Zyxel:GS1900-8HP firmware
+CAPEC-35,maps_to,T1552.001
+CVE-2026-43994,affects,coturn:coturn
+CAPEC-166,maps_to,T1601.001
+CVE-2026-54099,affects,Red Hat:Red Hat OpenShift Container Platform 4
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-ZW3622-T-2
+CWE-353,mapped_to,CAPEC-74
+CAPEC-141,maps_to,T1558.005
+T1072,mitigated_by,Limit Software Installation
+CAPEC-292,maps_to,T1069
+T1574,mitigated_by,Restrict Registry Permissions
+CVE-2026-53860,has_weakness,CWE-807
+CAPEC-211,maps_to,T1547.007
+CVE-2025-68851,has_weakness,CWE-79
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-FZ8021S-W
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-ZW2826-W
+CVE-2026-53853,has_weakness,CWE-693
+CWE-93,mapped_to,CAPEC-81
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-LN25VG2R-EN2
+CVE-2026-49078,has_weakness,CWE-1284
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-EF42VGKB-ET1
+CAPEC-90,maps_to,T1556
+CAPEC-88,maps_to,T1055.001
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-HR50VFK-E6
+CAPEC-643,maps_to,T1562.012
+CVE-2026-34888,affects,Bricksforge:Bricksforge
+CVE-2026-54277,affects,aio-libs:aiohttp
+CVE-2019-25759,affects,Wdmtech:vBizz
+CWE-1294,mapped_to,CAPEC-681
+CAPEC-653,maps_to,T1019
+CVE-2025-15661,has_weakness,CWE-125
+T1591.001,mitigated_by,Pre-compromise
+CAPEC-643,maps_to,T1685.004
+CAPEC-650,maps_to,T1552.003
+CVE-2026-49357,has_weakness,CWE-306
+CVE-2026-46871,has_weakness,CWE-284
+CWE-173,mapped_to,CAPEC-52
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-LN50VG4MW-ET1
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-EM2522E1-W
+CVE-2016-20068,affects,dwbooster:Booking Calendar Contact Form
+CVE-2026-46909,affects,Oracle Corporation:JD Edwards EnterpriseOne Tools
+CVE-2017-20272,affects,Faboba:Ultimate Property Listing
+CVE-2026-0146,affects,Google:Android
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-AP25VGK-EN2
+CAPEC-278,maps_to,T1565.001
+CAPEC-7,maps_to,T1659
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-ZXV2821S-W-1
+CAPEC-154,maps_to,T1557.003
+CAPEC-306,maps_to,T1543.003
+CVE-2026-12311,has_weakness,CWE-200
+CWE-696,mapped_to,CAPEC-463
+CAPEC-678,maps_to,T1601
+CVE-2026-46895,has_weakness,CWE-269
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-LN25VG2W-ET1
+CAPEC-96,maps_to,T1212
+CAPEC-488,maps_to,T1498.001
+CVE-2025-68049,affects,bunny.net:bunny.net
+CVE-2026-50194,affects,SteeltoeOSS:Steeltoe.Management.Endpoint
+CVE-2025-69144,affects,ThemeREX:Preservation
+T1003.002,mitigated_by,Privileged Account Management
+CAPEC-166,maps_to,T1564.005
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-LN50VG3B-SC1
+T1573.001,mitigated_by,Network Intrusion Prevention
+CAPEC-552,maps_to,T1553.004
+T1558.002,mitigated_by,Privileged Account Management
+CAPEC-657,maps_to,T1134.004
+T1556.005,mitigated_by,Privileged Account Management
+CWE-354,mapped_to,CAPEC-75
+CWE-138,mapped_to,CAPEC-105
+T1596.004,mitigated_by,Pre-compromise
+CAPEC-113,maps_to,T1493
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-BT25VGK-ER2
+CVE-2026-46953,has_weakness,CWE-269
+CAPEC-624,maps_to,T1659
+CVE-2026-50556,affects,angular:angular
+CVE-2026-49083,affects,LatePoint:LatePoint
+CVE-2026-48616,affects,Rocket.Chat:Rocket.Chat
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-HXV2824S-W
+CAPEC-692,maps_to,T1019
+CAPEC-479,maps_to,T1608.003
+CAPEC-473,maps_to,T1685.003
+T1048.003,mitigated_by,Filter Network Traffic
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-ZW8022S-T-1
+CAPEC-109,maps_to,T1178
+CAPEC-669,maps_to,T1045
+CAPEC-57,maps_to,T1564.009
+T1204,mitigated_by,Behavior Prevention on Endpoint
+CAPEC-580,maps_to,T1542.001
+CVE-2026-46902,has_weakness,CWE-284
+CVE-2026-55654,has_weakness,CWE-125
+CAPEC-678,maps_to,T1044
+CVE-2026-53874,has_weakness,CWE-502
+CAPEC-35,maps_to,T1558.005
+CAPEC-51,maps_to,T1102
+CAPEC-134,maps_to,T1659
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-EF25VGK2B-ET1
+CAPEC-158,maps_to,T1059.008
+T1040,mitigated_by,User Account Management
+CVE-2026-46926,has_weakness,CWE-284
+CAPEC-573,maps_to,T1186
+CAPEC-551,maps_to,T1685.003
+CAPEC-405,maps_to,T1027
+CWE-1264,mapped_to,CAPEC-233
+CVE-2026-49260,has_weakness,CWE-78
+CVE-2026-12324,affects,Mozilla:Thunderbird
+CAPEC-697,maps_to,T1684.002
+CAPEC-445,maps_to,T1072
+CVE-2026-48517,has_weakness,CWE-502
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-ZXV2822-W-2
+CVE-2026-55204,has_weakness,CWE-476
+CVE-2026-11791,affects,Red Hat:Red Hat Enterprise Linux 6
+CWE-200,mapped_to,CAPEC-322
+T1055.002,mitigated_by,Behavior Prevention on Endpoint
+CAPEC-694,maps_to,T1201
+CAPEC-541,maps_to,T1499.004
+CVE-2026-12770,has_weakness,CWE-266
+CAPEC-11,maps_to,T1583.003
+CVE-2026-46884,affects,Oracle Corporation:Siebel Apps - Marketing
+CAPEC-383,maps_to,T1070.001
+CAPEC-694,maps_to,T1569
+CAPEC-487,maps_to,T1499.001
+CVE-2026-48089,has_weakness,CWE-863
+CAPEC-137,maps_to,T1134.005
+CVE-2026-34026,affects,Wertheim GmbH:Wertheim SafeController Software for VAULT ROOMS (Safe Deposit Locker System)
+CAPEC-520,maps_to,T1592.001
+CWE-118,mapped_to,CAPEC-45
+CWE-262,mapped_to,CAPEC-555
+CAPEC-650,maps_to,T1216.002
+CWE-733,mapped_to,CAPEC-10
+CAPEC-583,maps_to,T1195.003
+T1557.003,mitigated_by,Network Intrusion Prevention
+CAPEC-123,maps_to,T1492
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Refrigerators (for Japan) MR-MZ49M
+T1185,mitigated_by,User Training
+CAPEC-694,maps_to,T1016
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-R2223-W
+CAPEC-117,maps_to,T1111
+CWE-282,mapped_to,CAPEC-35
+T1651,mitigated_by,Privileged Account Management
+CVE-2026-48872,has_weakness,CWE-639
+CAPEC-90,maps_to,T1498.002
+CAPEC-313,maps_to,T1596.001
+CVE-2025-69116,affects,ThemeREX:Iona
+CAPEC-402,maps_to,T1547.005
+CVE-2026-2021,has_weakness,CWE-79
+CAPEC-259,maps_to,T1499.004
+CVE-2016-20087,affects,Networkdls:Fortitude HTTP
+CVE-2026-9142,affects,NI:grpc-device
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-LN60VG3B-A1
+CVE-2026-53851,affects,OpenClaw:OpenClaw
+CVE-2026-56295,has_weakness,CWE-285
+CVE-2026-12324,affects,Mozilla:Firefox
+CAPEC-650,maps_to,T1584.007
+CAPEC-144,maps_to,T1559.003
+CVE-2025-71321,has_weakness,CWE-502
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-LN35VG2R-A2
+CVE-2026-39548,affects,Sneeit:MagOne
+CAPEC-535,maps_to,T1219.003
+CAPEC-550,maps_to,T1538
+CAPEC-580,maps_to,T1564.005
+CVE-2026-11834,affects,TP-Link Systems Inc.:Archer VR2100 v1
+T1213.005,mitigated_by,Out-of-Band Communications Channel
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-LN25VG2R-E2
+CWE-772,mapped_to,CAPEC-469
+CAPEC-442,maps_to,T1072
+CVE-2026-12450,has_weakness,CWE-269
+CAPEC-221,maps_to,T1090.002
+CVE-2026-46951,has_weakness,CWE-287
+T1557,mitigated_by,Encrypt Sensitive Information
+CVE-2026-0141,has_weakness,CWE-120
+CAPEC-158,maps_to,T1599.001
+CAPEC-583,maps_to,T1556.008
+CAPEC-326,maps_to,T1084
+CAPEC-690,maps_to,T1564.010
+CVE-2026-54818,has_weakness,CWE-89
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-EF35VGK2W-ET1
+CAPEC-60,maps_to,T1185
+CAPEC-7,maps_to,T1221
+CWE-180,mapped_to,CAPEC-267
+CAPEC-51,maps_to,T1001.003
+CAPEC-9,maps_to,T1098.007
+CVE-2026-5667,affects,"Mitsubishi Electric Corporation:Adapters for Airflow Ventilation Systems, Heat Pump Chilled/Hot Water Systems, and Ventilation/Air-Conditioning System Air Resorts (for Japan) P-01HMA"
+T1601,mitigated_by,Boot Integrity
+CAPEC-187,maps_to,T1017
+CVE-2026-54186,affects,eyecix:JobSearch
+CVE-2026-53705,affects,Red Hat:Red Hat Enterprise Linux 9
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-ZW8023S-T
+CVE-2026-50034,has_weakness,CWE-319
+CAPEC-700,maps_to,T1562.013
+CAPEC-479,maps_to,T1130
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-AP25VGKD2-A2
+CAPEC-278,maps_to,T1071.003
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-LN50VG2R-SC3
+CVE-2026-56024,affects,Saad Iqbal:WP EasyPay
+CAPEC-653,maps_to,T1562.004
+CAPEC-135,maps_to,T1592
+CVE-2026-54802,affects,Cozy Vision Technologies Pvt. Ltd.:SMS Alert Order Notifications
+CAPEC-530,maps_to,T1547.005
+CAPEC-2,maps_to,T1078.001
+CAPEC-300,maps_to,T1595.002
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-EF35VGKDB-A2
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-EF35VGK2S-ET1
+CAPEC-445,maps_to,T1505
+CVE-2026-9262,affects,Canon Inc.:EOS Network Setting Tool for macOS
+T1132.001,mitigated_by,Network Intrusion Prevention
+CAPEC-643,maps_to,T1016
+CVE-2026-52692,has_weakness,CWE-201
+CVE-2026-11576,has_weakness,CWE-908
+T1559,mitigated_by,Disable or Remove Feature or Program
+CAPEC-404,maps_to,T1598
+CVE-2026-56367,affects,ImageMagick:ImageMagick
+CAPEC-470,maps_to,T1148
+CVE-2026-24228,affects,NVIDIA:NeMo Framework
+CVE-2026-54103,affects,Government Accountability Office:Electronic Protest Docketing System (EPDS)
+CAPEC-248,maps_to,T1146
+CWE-74,mapped_to,CAPEC-14
+CAPEC-226,maps_to,T1552.001
+CVE-2026-50888,affects,n/a:n/a
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-AY25VGK2B-ET6
+T1558,mitigated_by,Privileged Account Management
+T1127.003,mitigated_by,Disable or Remove Feature or Program
+CAPEC-51,maps_to,T1058
+CAPEC-654,maps_to,T1503
+CAPEC-251,maps_to,T1078.003
+CVE-2026-42660,affects,Wasiliy Strecker:Contest Gallery
+CWE-262,mapped_to,CAPEC-652
+CAPEC-187,maps_to,T1554
+CAPEC-38,maps_to,T1070.007
+CAPEC-180,maps_to,T1548
+CAPEC-405,maps_to,T1598
+CWE-697,mapped_to,CAPEC-6
+CVE-2026-35295,affects,Oracle Corporation:Oracle WebCenter Sites
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-EF22VGKB-E1
+T1053,mitigated_by,Privileged Account Management
+CAPEC-260,maps_to,T1547.007
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-ZY2225-W
+CAPEC-657,maps_to,T1684.002
+CVE-2017-20265,has_weakness,CWE-89
+T1598.003,mitigated_by,Software Configuration
+T1606.002,mitigated_by,User Account Management
+CAPEC-681,maps_to,T1562.011
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Refrigerators (for Japan) MR-MXD57G
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-AP71VGK-ER3
+CVE-2026-12786,has_weakness,CWE-284
+CAPEC-248,maps_to,T1055.011
+CVE-2026-8918,has_weakness,CWE-183
+CAPEC-581,maps_to,T1562.011
+CVE-2026-55197,has_weakness,CWE-639
+CVE-2026-11791,affects,Red Hat:Red Hat Directory Server 12
+CVE-2016-20086,has_weakness,CWE-428
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-LZ35VUFB-ET1
+CAPEC-692,maps_to,T1601
+CAPEC-202,maps_to,T1204.001
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-JXV3624S-W
+CVE-2020-37254,has_weakness,CWE-428
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-GZT18VAK-1
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-LN35VGV-ER1
+CAPEC-234,maps_to,T1186
+CVE-2025-71344,affects,picklescan:picklescan
+CAPEC-471,maps_to,T1546.015
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-ZW9026S-W
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Refrigerators (for Japan) MR-MD45K
+CVE-2026-39199,affects,Snes9X team:Snes9X
+T1027.015,mitigated_by,Antivirus/Antimalware
+CAPEC-3,maps_to,T1674
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-EM63E3S-W
+CAPEC-500,maps_to,T1183
+CVE-2026-24610,affects,WPMet:MetForm Pro
+CVE-2026-0144,has_weakness,CWE-120
+CVE-2025-59560,has_weakness,CWE-79
+CAPEC-463,maps_to,T1573.002
+CAPEC-462,maps_to,T1594
+CAPEC-55,maps_to,T1110.002
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-ZD4022S-W
+CAPEC-2,maps_to,T1087.001
+CAPEC-252,maps_to,T1168
+CAPEC-497,maps_to,T1063
+CVE-2019-25757,affects,Wdmtech:vWishlist
+CAPEC-641,maps_to,T1574.002
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-EM90E2S-W
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSY-GA15VFK-SG1
+CAPEC-108,maps_to,T1035
+CAPEC-251,maps_to,T1136.001
+CVE-2026-45389,affects,n/a:n/a
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-ZY2226-W
+CAPEC-677,maps_to,T1195.003
+CAPEC-442,maps_to,T1045
+CVE-2026-46970,affects,Oracle Corporation:Oracle HR Intelligence
+T1566.003,mitigated_by,Antivirus/Antimalware
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-FT50VGK2-SC1
+CAPEC-176,maps_to,T1492
+CAPEC-309,maps_to,T1070.005
+CVE-2026-40735,affects,Edge-Themes:Reina
+CVE-2026-56227,has_weakness,CWE-918
+CAPEC-17,maps_to,T1140
+CVE-2026-46804,has_weakness,CWE-269
+CVE-2026-46838,affects,Oracle Corporation:Oracle WebCenter Portal
+CAPEC-115,maps_to,T1556.001
+CAPEC-389,maps_to,T1138
+CAPEC-578,maps_to,T1685
+CVE-2026-12779,has_weakness,CWE-266
+CVE-2026-44046,has_weakness,CWE-348
+T1059,mitigated_by,Audit
+CVE-2026-39478,affects,Eli Scheetz:Anti-Malware Security and Brute-Force Firewall
+CVE-2026-53856,has_weakness,CWE-732
+CVE-2025-69139,has_weakness,CWE-22
+CVE-2026-46784,has_weakness,CWE-284
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-BXV4024S-W
+CVE-2026-48820,has_weakness,CWE-98
+T1070.003,mitigated_by,Remote Data Storage
+CAPEC-549,maps_to,T1069.001
+CAPEC-184,maps_to,T1017
+CVE-2026-8050,affects,SignalRGB:SignalRGB kernel driver
+CAPEC-583,maps_to,T1219.003
+CAPEC-180,maps_to,T1088
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Smart Switches for Ventilation Fans and Lossnay (for Japan) P-10SWRC
+CVE-2026-46916,has_weakness,CWE-284
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-EM2525E5-W
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-AP50VGK-E1
+T1053.002,mitigated_by,User Account Management
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-EX7126E6S-W
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-XD2226-W
+T1210,mitigated_by,Network Segmentation
+CWE-200,mapped_to,CAPEC-577
+CAPEC-248,maps_to,T1094
+CVE-2026-12222,has_weakness,CWE-121
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-FD5623S-W
+CAPEC-54,maps_to,T1490
+CAPEC-154,maps_to,T1036.005
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-LN60VG4FM-E1
+CAPEC-550,maps_to,T1566.003
+CAPEC-657,maps_to,T1072
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-ZXV2526-W
+T1003.005,mitigated_by,Operating System Configuration
+T1059.001,mitigated_by,Code Signing
+CWE-1321,mapped_to,CAPEC-180
+CWE-1021,mapped_to,CAPEC-506
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-EF35VGKS-E1
+CAPEC-41,maps_to,T1204.004
+CAPEC-166,maps_to,T1497.001
+CVE-2026-50890,has_weakness,CWE-89
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-LN25VG3V-SC1
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-ZXV2521-W
+T1649,mitigated_by,Encrypt Sensitive Information
+CWE-451,mapped_to,CAPEC-173
+CAPEC-101,maps_to,T1584.007
+CVE-2026-9320,affects,IBM:WebSphere Application Server - Liberty
+CAPEC-414,maps_to,T1134.003
+T1136.002,mitigated_by,Multi-factor Authentication
+T1219,mitigated_by,Disable or Remove Feature or Program
+T1068,mitigated_by,Exploit Protection
+CVE-2026-8024,has_weakness,CWE-502
+T1621,mitigated_by,Account Use Policies
+CAPEC-445,maps_to,T1204.004
+CVE-2026-52721,affects,Red Hat:Red Hat Enterprise Linux 9
+CVE-2026-54299,has_weakness,CWE-918
+CAPEC-390,maps_to,T1003.002
+CAPEC-106,maps_to,T1558.005
+CVE-2026-55655,has_weakness,CWE-923
+T1569,mitigated_by,Behavior Prevention on Endpoint
+CVE-2026-48512,affects,MessagePack-CSharp:MessagePack-CSharp
+T1059.011,mitigated_by,Audit
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-ZW8021S-T
+CAPEC-2,maps_to,T1548.002
+CAPEC-578,maps_to,T1063
+CAPEC-398,maps_to,T1187
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-EF25VGKW-ET1
+CAPEC-251,maps_to,T1005
+CAPEC-453,maps_to,T1592.001
+CAPEC-265,maps_to,T1565.001
+CAPEC-384,maps_to,T1565.002
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-AY50VGK2-E2
+T1114.003,mitigated_by,Disable or Remove Feature or Program
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-LN60VGV-E1
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-EM6322E1S-W-2
+CAPEC-88,maps_to,T1070.003
+CAPEC-306,maps_to,T1021.002
+CAPEC-48,maps_to,T1069.001
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-RW35VG2-SC1
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-EM6321E9S-W
+T1556.008,mitigated_by,Operating System Configuration
+CVE-2026-12328,affects,Mozilla:Thunderbird
+CVE-2026-8157,affects,Unknown:Vitepos
+CVE-2026-46963,has_weakness,CWE-284
+CAPEC-215,maps_to,T1137
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-LN50VG2W-ET2
+CAPEC-501,maps_to,T1185
+CWE-602,mapped_to,CAPEC-383
+CVE-2026-54192,has_weakness,CWE-79
+CVE-2026-12441,affects,Google:Chrome
+CVE-2026-55203,has_weakness,CWE-190
+CAPEC-581,maps_to,T1195.001
+CVE-2026-39590,has_weakness,CWE-98
+CAPEC-177,maps_to,T1158
+CVE-2026-24228,has_weakness,CWE-502
+CAPEC-700,maps_to,T1135
+CAPEC-657,maps_to,T1195.001
+CWE-20,mapped_to,CAPEC-52
+CAPEC-263,maps_to,T1158
+CVE-2026-5667,affects,"Mitsubishi Electric Corporation:Adapters for Airflow Ventilation Systems, Heat Pump Chilled/Hot Water Systems, and Ventilation/Air-Conditioning System Air Resorts (for Japan) P-WA02"
+CVE-2026-12317,has_weakness,CWE-119
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-EF35VGKW-ET1
+CAPEC-75,maps_to,T1592.004
+CWE-181,mapped_to,CAPEC-43
+CAPEC-165,maps_to,T1493
+CVE-2026-49107,affects,Thrive Themes:Thrive Apprentice
+CVE-2026-56396,has_weakness,CWE-862
+CVE-2026-46851,affects,Oracle Corporation:PeopleSoft Enterprise CS Campus Community
+T1574.008,mitigated_by,Restrict File and Directory Permissions
+CAPEC-561,maps_to,T1685.005
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-EX7125E5S-W
+CVE-2026-9142,affects,NI:InstrumentStudio
+CAPEC-533,maps_to,T1204.002
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-ZXV3620-T
+CVE-2026-46970,has_weakness,CWE-269
+T1602,mitigated_by,Encrypt Sensitive Information
+CWE-697,mapped_to,CAPEC-53
+CVE-2026-50268,affects,SteeltoeOSS:Steeltoe.Configuration.Encryption
+CAPEC-184,maps_to,T1176
+CAPEC-654,maps_to,T1001.003
+CVE-2026-46580,has_weakness,CWE-829
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-AY50VGK2-SC1
+CWE-1312,mapped_to,CAPEC-456
+CAPEC-288,maps_to,T1621
+CAPEC-478,maps_to,T1682
+CVE-2026-50890,affects,n/a:n/a
+CAPEC-10,maps_to,T1480.001
+CVE-2026-12120,affects,fireplugins:FireBox Popups – Increase Sales and Grow Your Email List
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-LZ25VUMW-E1
+CWE-506,mapped_to,CAPEC-442
+CAPEC-202,maps_to,T1204.002
+T1601.001,mitigated_by,Multi-factor Authentication
+CAPEC-90,maps_to,T1550
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-LZ50VUFM-SC1
+CVE-2026-39596,has_weakness,CWE-89
+CVE-2026-54289,has_weakness,CWE-348
+CAPEC-202,maps_to,T1204.005
+CVE-2026-53776,affects,PerryTS:perry
+T1136.002,mitigated_by,Operating System Configuration
+T1048.002,mitigated_by,Network Intrusion Prevention
+CVE-2026-56077,has_weakness,CWE-668
+CVE-2026-11982,has_weakness,CWE-79
+CVE-2026-12460,has_weakness,CWE-284
+CVE-2026-11410,affects,TP-Link Systems Inc.:TL-WR940N v6
+CWE-97,mapped_to,CAPEC-35
+CAPEC-96,maps_to,T1527
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-AY50VGKP2B-ET6
+CVE-2026-50882,affects,n/a:n/a
+CAPEC-95,maps_to,T1595.001
+T1574.010,mitigated_by,User Account Control
+CAPEC-292,maps_to,T1580
+CAPEC-226,maps_to,T1552.002
+CVE-2026-12120,has_weakness,CWE-200
+CAPEC-51,maps_to,T1567
+T1602.002,mitigated_by,Network Segmentation
+CAPEC-292,maps_to,T1526
+CVE-2026-9162,affects,Mattermost:Mattermost
+CAPEC-137,maps_to,T1178
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-XK2824-W
+CAPEC-530,maps_to,T1505.004
+CVE-2016-20092,affects,Netdrive:NetDrive
+T1222,mitigated_by,Restrict File and Directory Permissions
+CAPEC-523,maps_to,T1017
+CVE-2026-35323,affects,Oracle Corporation:Oracle WebCenter Content
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-AP71VGK-ER1
+CVE-2026-12789,has_weakness,CWE-74
+CAPEC-144,maps_to,T1569
+CAPEC-235,maps_to,T1070.002
+T1601.002,mitigated_by,Credential Access Protection
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-AY15VGK2-E2
+CWE-138,mapped_to,CAPEC-15
+CAPEC-163,maps_to,T1566.003
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-NXV2224-W
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-FZ5622S-W
+CWE-88,mapped_to,CAPEC-137
+CAPEC-226,maps_to,T1212
+CVE-2026-12455,affects,Google:Chrome
+CAPEC-476,maps_to,T1672
+CVE-2026-46865,affects,Oracle Corporation:Oracle Enterprise Manager Base Platform
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-ZXV3626-W
+CWE-1262,mapped_to,CAPEC-680
+CVE-2026-12463,affects,Google:Chrome
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-LN25VG2W-SC1
+CAPEC-402,maps_to,T1101
+CWE-284,mapped_to,CAPEC-19
+CAPEC-692,maps_to,T1216
+CVE-2026-35278,has_weakness,CWE-306
+CAPEC-249,maps_to,T1505.005
+CAPEC-253,maps_to,T1028
+CWE-692,mapped_to,CAPEC-71
+CWE-1296,mapped_to,CAPEC-121
+CVE-2026-46916,affects,Oracle Corporation:Oracle Process Manufacturing Product Development
+CAPEC-166,maps_to,T1033
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-EM3625E5-W
+CVE-2026-10649,affects,Red Hat:Red Hat Enterprise Linux 7
+T1550,mitigated_by,Privileged Account Management
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-LN35VG2V-A3
+CAPEC-40,maps_to,T1505.005
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-ZXV8022S-T
+CAPEC-234,maps_to,T1553.003
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-ZW4022S-W-1
+CAPEC-144,maps_to,T1505.005
+CVE-2026-50656,has_weakness,CWE-59
+CVE-2026-54271,affects,protobufjs:protobufjs-cli
+CVE-2026-56406,affects,libexpat project:libexpat
+CVE-2026-22313,affects,Radiflow:iSAP Smart Collector
+CVE-2026-0647,has_weakness,CWE-306
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-XK2225-W
+CAPEC-629,maps_to,T1556.004
+CAPEC-296,maps_to,T1213
+CWE-20,mapped_to,CAPEC-250
+CAPEC-457,maps_to,T1555.002
+CVE-2026-5416,affects,TURCK:TBEN-LL-SE-M2
+CVE-2026-50178,has_weakness,CWE-79
+CAPEC-162,maps_to,T1143
+CAPEC-30,maps_to,T1546.012
+CAPEC-186,maps_to,T1027.002
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-ZW7123S-W
+CAPEC-408,maps_to,T1598
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-FX25VFK
+CVE-2026-11834,affects,TP Link Systems Inc.:Archer MR402 v1
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-XD2825S-W
+CVE-2026-49757,has_weakness,CWE-290
+CWE-1303,mapped_to,CAPEC-663
+CAPEC-158,maps_to,T1070.005
+CVE-2026-50870,has_weakness,CWE-200
+CAPEC-578,maps_to,T1554
+CAPEC-292,maps_to,T1518
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-ZW2520-T
+CAPEC-409,maps_to,T1082
+CAPEC-640,maps_to,T1031
+CAPEC-114,maps_to,T1547.002
+CVE-2026-46808,affects,Oracle Corporation:Oracle WebCenter Content
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-FZV9024S-W
+CAPEC-276,maps_to,T1098
+CAPEC-138,maps_to,T1659
+CVE-2026-46955,has_weakness,CWE-352
+CAPEC-600,maps_to,T1552.001
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-LN50VG3W-SC1
+CWE-315,mapped_to,CAPEC-74
+T1036.008,mitigated_by,Antivirus/Antimalware
+T1543.003,mitigated_by,Behavior Prevention on Endpoint
+CAPEC-551,maps_to,T1569.002
+CVE-2026-12621,affects,Microchip:GridTime 3000
+CVE-2026-12439,has_weakness,CWE-416
+T1567.003,mitigated_by,Restrict Web-Based Content
+CAPEC-586,maps_to,T1055.001
+T1218.015,mitigated_by,Exploit Protection
+CVE-2026-52695,affects,Al Monsor:ABC Crypto Checkout
+CVE-2025-69148,has_weakness,CWE-98
+CAPEC-660,maps_to,T1497
+CAPEC-445,maps_to,T1592.002
+CVE-2025-69119,affects,ThemeREX:Corbesier
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-XK5626S-W
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-AY25VGK-ET1
+CWE-122,mapped_to,CAPEC-92
+CAPEC-220,maps_to,T1094
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-ZXV2821-W-1
+CVE-2026-42127,has_weakness,CWE-770
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-R7125S-W
+CAPEC-502,maps_to,T1502
+CVE-2026-42384,has_weakness,CWE-201
+CVE-2026-46883,has_weakness,CWE-284
+CVE-2026-48878,affects,Bootstrapped Ventures:Visual Link Preview
+CVE-2026-12779,has_weakness,CWE-284
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-ZW2220-W
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-AY25VGKP-ET1
+CWE-707,mapped_to,CAPEC-79
+CVE-2026-12212,has_weakness,CWE-266
+CAPEC-690,maps_to,T1134.004
+CVE-2026-56142,affects,JetBrains:Hub
+CAPEC-522,maps_to,T1546.015
+CVE-2025-32437,affects,Significant-Gravitas:AutoGPT
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-R6324S-W
+CVE-2026-54185,affects,THEMECO:Cornerstone
+CAPEC-402,maps_to,T1174
+CAPEC-263,maps_to,T1110
+T1602.001,mitigated_by,Network Intrusion Prevention
+T1495,mitigated_by,Update Software
+CAPEC-168,maps_to,T1077
+CAPEC-155,maps_to,T1140
+CAPEC-260,maps_to,T1528
+CVE-2016-20085,has_weakness,CWE-428
+CVE-2026-9265,affects,JONASBN:Crypt::OpenSSL::PKCS12
+CAPEC-677,maps_to,T1584.004
+CWE-733,mapped_to,CAPEC-46
+CAPEC-692,maps_to,T1672
+CAPEC-82,maps_to,T1031
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-FT35VGK2-SC2
+CVE-2026-9260,has_weakness,CWE-798
+CVE-2026-39490,has_weakness,CWE-862
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-BXV2524-W
+CWE-200,mapped_to,CAPEC-646
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-EM8020E8S-W
+CVE-2026-5667,affects,"Mitsubishi Electric Corporation:Adapters for Airflow Ventilation Systems, Heat Pump Chilled/Hot Water Systems, and Ventilation/Air-Conditioning System Air Resorts (for Japan) VEZ-HM01WA"
+CAPEC-82,maps_to,T1080
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-LN35VG4FM-E1
+CVE-2026-46967,has_weakness,CWE-284
+CWE-79,mapped_to,CAPEC-588
+CWE-294,mapped_to,CAPEC-645
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-FT35VGK2-SC1
+CVE-2025-9912,affects,Nokia:Nokia SR Linux
+CVE-2026-35327,affects,Oracle Corporation:Oracle WebCenter Content
+CAPEC-564,maps_to,T1063
+CAPEC-489,maps_to,T1498.001
+CWE-923,mapped_to,CAPEC-161
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (outside Japan) MSZ-LN50VG2W-E2
+T1530,mitigated_by,Filter Network Traffic
+CAPEC-258,maps_to,T1527
+CAPEC-279,maps_to,T1493
+CAPEC-240,maps_to,T1659
+CAPEC-585,maps_to,T1482
+CVE-2026-5667,affects,Mitsubishi Electric Corporation:Room Air Conditioners (for Japan) MSZ-RK2226-W
+CAPEC-581,maps_to,T1554

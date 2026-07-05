@@ -1,0 +1,6 @@
+Stage,Value
+CVE,CVE-2026-12212
+Weakness,CWE-266
+Attack Pattern,CAPEC-19
+Technique,T1037
+Mitigation,Execution Prevention

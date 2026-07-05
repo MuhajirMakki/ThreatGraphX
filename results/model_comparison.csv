@@ -1,0 +1,4 @@
+Model,Accuracy,F1,AUC
+GraphSAGE,0.9019,0.9088,0.9514
+R-GCN,0.9234,0.9275,0.9717
+ThreatGraphX-Tx,0.9003,0.902,0.9656
